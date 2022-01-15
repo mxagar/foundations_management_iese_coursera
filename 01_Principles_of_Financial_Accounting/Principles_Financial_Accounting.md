@@ -41,3 +41,24 @@ We have the following case, taken from the PDF downloaded from the course:
 Every business has a business cycle:
 
 ![The Business Cycle](./pics/business_cycle.png)
+
+Cristina, the bookstore owner says she has all the receipts of the paymets she's done.
+However, keeping track of all the payment receipts is not enough, because
+
+- it does not reflect the full value of assets, only what has been paid for in cash
+- it does not include how much money is owed
+- it doesn't specify where the money is coming from (sources of capital)
+
+![Cash receipt accounting](./pics/cash_receipt_accounting.png)
+
+#### Double Entry Accounting
+
+In order to overcome the issues or lacks faced by a payments-based accounting, the **double entry accounting** is used in a table with two sides: **(1, right) the sources of capital and (2, left) uses of that capital**.
+
+Main idea: any money entry on the right needs to reflect the use of that money on the left. Each side of the table is divided in different accounts. Thus, for every value transaction, at least 2 accounts need to be updated; however, these not always will be on different sides of the table.
+
+![Double entry accounting](./pics/double_accounting.png)
+
+In the following, all the 6 transactions/payments carried out to open the bookstore are reflected in the table:
+
+![Double entry accounting](./pics/bookstore_accounts.png)
