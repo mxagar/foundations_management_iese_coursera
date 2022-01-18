@@ -59,6 +59,27 @@ Main idea: any money entry on the right needs to reflect the use of that money o
 
 ![Double entry accounting](./pics/double_accounting.png)
 
-In the following, all the 6 transactions/payments carried out to open the bookstore are reflected in the table:
+In the following, all the 6 transactions/payments carried out to open the bookstore are reflected in the table and commented:
 
-![Double entry accounting](./pics/bookstore_accounts.png)
+<!--- ![Double entry accounting](./pics/bookstore_accounts.png) -->
+![Double entry accounting](./pics/bookstore_accounts_comments.jpeg)
+
+If we make the sum of each account and display the summary, we have our **balance sheet**, which is th emost important financial statement:
+
+![Double entry accounting](./pics/bookstore_accounts_summary.png)
+
+Note the following points:
+- We have created **accounts** on both sides of the table:
+  - Cash
+  - Inventory
+  - Equipment
+  - Rent
+  - Software
+  - Loan
+  - Common stock / Share capital
+  - ...
+- The sum on both sides of the table must be the same
+- On entry in an account needs at least another entry in another account, which might be on the same side or on the other side
+### The Balance Sheet
+
+The document 
