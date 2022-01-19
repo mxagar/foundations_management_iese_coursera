@@ -171,6 +171,17 @@ Examples:
 
 ### 2.7 Readings
 
+#### `Accounting_01_Introduction.pdf` (p. 1-15)
+
+
+#### `Accounting_02_BalanceSheet.pdf`
+
+
 ### 2.8 Translation & Further Notes
 
+I made this transactions into Spanish whilea skimming through the Spanish version of the Specialization, also available on Coursera.
+There are also readings in Spanish:
+
+- `Contabilidad_01_Introduccion.pdf`
+- `Contabilitdad_01_BalanceSituacion.pdf`
 
