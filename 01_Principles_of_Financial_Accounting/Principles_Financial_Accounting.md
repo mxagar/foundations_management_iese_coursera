@@ -173,6 +173,10 @@ Examples:
 
 #### 2.7.1 `Accounting_01_Introduction.pdf` (p. 1-15)
 
+**Very important case study** in which the balance sheet is built with much more transactions as in the videos.
+
+General notes:
+
 - Managerial accounting vs financial accounting: first for inside firm, second for interested parties outside the company
 - Annual report: summary of yearly financial status, public, audited, for for interested parties outside the company
 - Balance sheet
@@ -185,9 +189,10 @@ Examples:
   - Or: `OE = A - L`: owned wealth is the residual after we substract to our resources the funds we need to return
   - `A - L = OE = NA`: aka net assets
 
-Case study: DSJ company creation and operations over time (**very complete introductory example**):
+**Case study:** DSJ company creation and operations over time (**very complete introductory example**):
 
 - Usually, the balance sheet is presented every year or quarterly; therefore, we add an account in OE called **profit of the period**, which accounts for the revenues and expenses (i.e., profits).
+- The balance sheet contains a summary of all transactions.
 - When we pay the rent for a given time frame, this reduces the **cash** (assets), but it increases the account **prepaid rent** (assets), as the physical place is a resource we use!
 - When we **sell** merchandise/goods, the revenues go to the account **profit of the period** (OE), and several things happen additionally:
   - If we sell merchandise/goods in cash, the received money goes to the cash account (assets).
@@ -202,7 +207,7 @@ Case study: DSJ company creation and operations over time (**very complete intro
     1. **cash**
     2. **profit of the period**: here we usually add a note to the type of expense
 - Updates of assets in the period:
-  - Equipment: Depreciation of equipment is registered as an expense. Usually, the monthly fee is: `cost / useful life expentancy in months`; then we multiply it by the months in the period (usually 3 months, i.e., a quarter)
+  - Equipment: Depreciation of equipment is registered as an expense. Usually, the monthly fee is: `cost / useful life expentancy in months`; then we multiply it by the months in the period (usually 3 months, i.e., a quarter). Often the summary balance sheet contains an entry with the accumulated depreciation below the equipment cost value.
   - Prepaid rents: if we have a prepair rent for 6 months, this is reflected as an asset; however, after 3 months (period), its value has halved, and wee need to reflect it in two accounts
     1. prepaid rent (assets)
     2. profit
@@ -214,12 +219,41 @@ Case study: DSJ company creation and operations over time (**very complete intro
 
 ![DSJ Company: Transactions in first period of company since foundation](./pics/dsj_transactions.png)
 
-- Usually balance sheets are presented in two consecutive periods to analyze the development.
-- The OE account **profit of the period** renamed to be the account of **retained profits**: this is a very important value, since it summarizes how well the company did in the period! Since it is very important, a new table/statement is created for it: **The Income Statement** or **Profit & Loss account (P & L)**. This 
+Usually balance sheets are presented in two consecutive periods to analyze the development.
 
 ![DSJ Company: Balance sheet after the first period](./pics/dsj_balance_sheets.png)
 
-#### `Accounting_02_BalanceSheet.pdf`
+The OE account **profit of the period** renamed to be the account of **retained profits**: this is a very important value, since it summarizes how well the company did in the period! Since it is very important, a new table/statement is created for it: **The Income Statement** or **Profit & Loss account (P & L)**. This table is basically the list of all transactions (or groups of transactions) in the account **profit of the period**. The order matters: revenues are decreased from most basic expenses to taxes until we get the net profit:
+
+1. **Sales revenue**: everything we have earned
+2. **Gross profit** = sales revenue - COGS expenses
+3. **Operating profit** = Gross profit - operation expenses
+   - Operation expenses: salaries, depreciation, rent, etc.
+4. **Profit before income tax** = Operating profit - interest expenses
+5. **Net profit** = Profit before income tax - income tax
+   - Income tax (= impuesto de sociedades) is applied on the profits after all expenses except the taxes; it is different for each countries, and it varies depending on the size and activities of the company
+
+Note that the shareholders can obtain **dividends** from the **net profit**.
+Since the dividends are not an expense, they do not appear in the income statement; however, they are reflected in the balance sheet, because they are part of the financial image of the company: **Cash** (assets) and **Profit of the period / Retained profit** are decreased with the amount payed in dividends.
+
+That explains why **profit of the period** is renamed to **retained profits** in the income statement: the income statement accounts for the profits generated (revenues - expenses), independently of how they are distributed.
+
+![DSJ Company: Income statement after the first period](./pics/dsj_income_statement.png)
+
+How a basic financial analysis is done:
+- Check **balance sheet**
+  - How big is the net profit?
+  - How are `A`, `L` and `OE` distributed?
+  - Do current assets pay the current liabilities?
+    - If our cash is able to pay all current liabilities, that's perfect; but not necessary
+- Check the **income statement**
+  - How was the net profit obtained?
+  - `Profit margin = Net profit / Sales`: how big is it?
+  - `Return on equity (ROE) = Net profit / OE`: how big is it? (4x for annualized return)
+  - 
+
+#### 2.7.2 `Accounting_02_BalanceSheet.pdf`
+
 
 
 ### 2.8 Translation & Further Notes
@@ -246,6 +280,16 @@ There are also readings in Spanish:
 - Cost of goods sold (COGS) = Coste de mercancías vendidas (CMV)
 - Deposits from cutomers / unearned renevues = Anticipos de clientes / ingresos no devengados
 - Depreciation expense of equipment = amortización
+- Income tax = Impuesto de sociedades
+- Income statement = cuenta de resultados, cuenta de pérdidas y ganancias
+  - Gross profit = beneficio bruto
+  - Operating profit = Resultado de explotación
+  - Profit before tax = Beneficio antes de impuestos
+  - Net profit = Beneficio neto
+- Current and non-current assets = Activos corrientes y no corrientes
+- Current and non-current liabilities = Pasibo corrientes y no corrientes
+- Profit margin = margen neto
+- Return on equity = rentabilidad sobre recursos propios
 
 #### `Contabilitdad_01_BalanceSituacion.pdf`
 
