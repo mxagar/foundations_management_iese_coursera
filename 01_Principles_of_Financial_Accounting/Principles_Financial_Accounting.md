@@ -171,8 +171,53 @@ Examples:
 
 ### 2.7 Readings
 
-#### `Accounting_01_Introduction.pdf` (p. 1-15)
+#### 2.7.1 `Accounting_01_Introduction.pdf` (p. 1-15)
 
+- Managerial accounting vs financial accounting: first for inside firm, second for interested parties outside the company
+- Annual report: summary of yearly financial status, public, audited, for for interested parties outside the company
+- Balance sheet
+  - Sources of capital (right)
+    - Liabilties: `L`: current and non-current
+    - Owners' equity: `OE`
+  - Use of capital (left)
+    - Assets: `A`: current and non-current
+- Accounting idetity: `A = L + OE`
+  - Or: `OE = A - L`: owned wealth is the residual after we substract to our resources the funds we need to return
+  - `A - L = OE = NA`: aka net assets
+
+Case study: DSJ company creation and operations over time (**very complete introductory example**):
+
+- Usually, the balance sheet is presented every year or quarterly; therefore, we add an account in OE called **profit of the period**, which accounts for the revenues and expenses (i.e., profits).
+- When we pay the rent for a given time frame, this reduces the **cash** (assets), but it increases the account **prepaid rent** (assets), as the physical place is a resource we use!
+- When we **sell** merchandise/goods, the revenues go to the account **profit of the period** (OE), and several things happen additionally:
+  - If we sell merchandise/goods in cash, the received money goes to the cash account (assets).
+  - If we sell on credit its value goes to an assets account called **accounts receivable** (in assets), not to the cash account; this way, it is clear we do not have the money yet.
+  - Additionally we need to reflect the **costs of goods sold** (COGS) to keep a balance in the balance sheet: the **inventory** account (assets) needs to be decreased in the value of the associated cost and the **profit of the period** (OE) also decreased by the costs; this way, we have the real profits in the account **profit of the period**, not the revenue!
+  - These steps are done often in separate entries because receiving the money and delivering the goods are separate events, and the amount of capital **in** the company is better portrayed that way.
+- When we sell goods but we deliver them later, the revenues do not go to the **profits** account!
+  - We register the increase in cash (assets).
+  - We open/register the account **deposits from customers/unearned renevue** (liabilities).
+- The contributed capital and the earned capital need to be well distinguished in the OE section.
+- Expenses, if not tied to other assets, cause a decrease in two accounts
+    1. **cash**
+    2. **profit of the period**: here we usually add a note to the type of expense
+- Updates of assets in the period:
+  - Equipment: Depreciation of equipment is registered as an expense. Usually, the monthly fee is: `cost / useful life expentancy in months`; then we multiply it by the months in the period (usually 3 months, i.e., a quarter)
+  - Prepaid rents: if we have a prepair rent for 6 months, this is reflected as an asset; however, after 3 months (period), its value has halved, and wee need to reflect it in two accounts
+    1. prepaid rent (assets)
+    2. profit
+- Interests and Taxes to be payed
+  - Even though interests and taxes can be required to be paid at year end, every period we need to account for them and change two accounts:
+  1. **interests payable** / **taxes payable** (liabilities)
+  2. profit (OE)
+  - This is another example in which the recognition of an expense does not require cash outflow!
+
+![DSJ Company: Transactions in first period of company since foundation](./pics/dsj_transactions.png)
+
+- Usually balance sheets are presented in two consecutive periods to analyze the development.
+- The OE account **profit of the period** renamed to be the account of **retained profits**: this is a very important value, since it summarizes how well the company did in the period! Since it is very important, a new table/statement is created for it: **The Income Statement** or **Profit & Loss account (P & L)**. This 
+
+![DSJ Company: Balance sheet after the first period](./pics/dsj_balance_sheets.png)
 
 #### `Accounting_02_BalanceSheet.pdf`
 
@@ -182,6 +227,25 @@ Examples:
 I made this transactions into Spanish whilea skimming through the Spanish version of the Specialization, also available on Coursera.
 There are also readings in Spanish:
 
-- `Contabilidad_01_Introduccion.pdf`
-- `Contabilitdad_01_BalanceSituacion.pdf`
+#### `Contabilidad_01_Introduccion.pdf`
+
+- Creditors = Acreedores: bancos, proveedores, etc.
+- Share capital (EU) = Capital stock (USA) = capital social: capital put by founders or shareholders
+- Balance sheet = balance de situación: financial state at a point in time
+- Assets = Activo
+- Liabilities = pasivo: funds we need to return
+- Owners'/Shareholders' equity = patrimonio neto
+- Equipment = inmobilizado material
+- Merchandise inventory = Existencias
+- Accounts payable = cuentas a pagar: when we get merchandise or similar on credit, i.e., we have not payed yet, but we need to pay it gradully in time
+- Gross profit = beneficio bruto
+- Profits/Earnings = renevues - expenses
+- Beneficio/Ganancias = ingresos - gastos
+- Accounts receivable = cuentas por cobrar
+- Profit of the period = resultado del periodo
+- Cost of goods sold (COGS) = Coste de mercancías vendidas (CMV)
+- Deposits from cutomers / unearned renevues = Anticipos de clientes / ingresos no devengados
+- Depreciation expense of equipment = amortización
+
+#### `Contabilitdad_01_BalanceSituacion.pdf`
 
