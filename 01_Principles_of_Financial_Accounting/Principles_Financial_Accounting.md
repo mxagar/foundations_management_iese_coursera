@@ -7,14 +7,20 @@ The course explains in 4 weeks the 3 most important finance reports (balance, in
 Overview:
 1. Introduction
 2. The Balance Sheet
-   - The Bookstore Case
-   - Double Entry Accounting
-   - The Balance Sheet
-   - Interpretation of the Balance Sheet
-   - Assets
-   - Liabilities
-   - Readings: Notes
-   - Translation & Further Notes
+   - 2.1 The Bookstore Case
+   - 2.2 Double Entry Accounting
+   - 2.3 The Balance Sheet
+   - 2.4 Interpretation of the Balance Sheet
+   - 2.5 Assets
+     - 2.5.1 Most Common Assets (from the readings)
+   - 2.6 Liabilities
+     - 2.6.1 Most Common Liabilities (from the readings)
+   - 2.7 Owners' Equity (OE) (extra, after the readings)
+     - 2.7.1 Most Common Owners' Equity
+   - 2.8 Readings: Notes
+     - `Accounting_01_Introduction.pdf` (p. 1-15)
+     - `Accounting_02_BalanceSheet.pdf`
+   - 2.9 Translation & Further Notes
 3. The Income Statement
 4. The Cash Flow Statement
 5. Accrual Accounting
@@ -23,10 +29,10 @@ Overview:
 
 Accounting is known as "the language of business".
 
-The companz managers are the ones which record all economic events and transactions according to some standards and present it to interested parties. These interested parties are many:
+The company managers are the ones which record all economic events and transactions according to some standards and present it to interested parties. These interested parties are many:
 - Current shareholders
 - Potential shareholders
-- Own comany workers who would like to negotiate their salary
+- Own company workers who would like to negotiate their salary
 - Customers who look for long-term product support
 - Competitors
 - ...
@@ -92,26 +98,38 @@ Note the following points:
 ### 2.3. The Balance Sheet
 
 The two-sided table is **the balance sheet**.
-It is the most important financial statement because it shows a complete image of the stat eof the company.
+It is the most important financial statement because it shows a complete image of the state of the company.
 It is also called the **statement of the finance position**.
 We can see that the accounts of the balance sheet can be classified in very clear types of accounts:
 
-- Source of money (right): **Assets**
-  - **Current liabilities**: liabilities are sources of capital **that we need to return** before the **maturity date**, in the case of current liabilities we need to return them within a year
-  - **Noncurrent liabilities**: liabilities that we need to return, but later than within a year
-  - **Owner's equity**: sources that we don't need to return
-- Use of money (left): **Liabilities and Owner's Equity**
-  - **Current assets**: they are cash or they are going to become cash in the near term (months)
-  - **Non-current assets**: assets that are not going to become money (in the short run). These are the long-term resources.
+- Source of money (right): **Liabilities and Owner's Equity**
+  - **Current liabilities (CL)**: liabilities are sources of capital **that we need to return** before the **maturity date**, in the case of current liabilities we often need to return them within a year
+  - **Non-current liabilities (NCL)**: liabilities that we need to return, but later than within a year
+  - **Owner's equity (OE)**: sources that we don't need to return
+- Use of money (left): **Assets**
+  - **Current assets (CA)**: they are cash or they are going to become cash in the near term (months)
+  - **Non-current assets (NCA)**: assets that are not going to become money (in the short run). These are the long-term resources.
+
+**Accounting identity**: `A = L + OE`
+**Net Assets**: `NA = A - L = CA + NCA - CL - NCL =  OE`
+
+Note on the current liabilities/assets: *current* refers often to the next 12 months, but it can be longer if the business' operating cycle is longer (e.g., a winery, which needs 2 years to produce wine). Additionally, we might have liabilities/assets that are due in the short-term (months/weeks) not in 12 months.
+
+Valuation can be:
+- Historical cost: the value at purchase time
+- Current value: aka fair or market value, the present cost if sold
+
+Usually, historical costs are registered in the balance sheet, but recently the use of current value has extended; it has pros and cons.
 
 ![Double entry accounting](./pics/bookstore_accounts_summary_2.png)
 
 The order of the accounts is relevant:
 
-- Anglosaxon style (USA, UK, etc.):
+- Anglosaxon style (USA):
   - Assets: most liquidity on top, less at the bottom
   - Liabilities and owner's equity: closer maturity on top, less or non maturity (no need to return) at the bottom
-- Continental European style: opposite order
+- Continental European style: opposite order as USA
+- UK & Ireland: one column
 
 ![The Balance Sheet Format](./pics/balance_sheet_order.png)
 
@@ -143,13 +161,36 @@ Additionally, we have two conditions to acknowledge an asset:
 - The **value needs to be estimated reliably**.
 - The future **economic benefits need to have high probability**.
 
-Every time we add an asset we need to check those 3+2 points.
-Examples:
+Every time we add an asset we need to check those 3+2 points. If we have a good which does not fulfill any of the points but is of considerable value, we disclose it in a note. The management needs to address cases of doubt; for instance, we could doubt whether a newly discovered tech is an asset, because its future economic impact is unsure.
+
+Examples of assets:
 
 - Equipment of 1M euros: fulfills all 5 points
 - Diet Coke brand: it is not an asset, because it is nt the result of a past transaction, but an internal creation process.
 - Lottery tickets: it is not an asset, because the probability of future benefits is low.
 - Employees: they are not assets, because they are not owned by the company! However, there is an exception here: Sports clubs like FC Barcelona. These clubs have often in their assets something called *transfer rights*. A transfer right is tied to a player and it gives the permission to the club so that the player plays with them for a given amount of time. For instance, Suárez went from Liverpool to Barcelona and Barcelona payer the transfer fee to Liverpool for that; as such, that fee is in the assets list, because it fulfills all 5 points. However, Mesi, a Barcelona player discovered brought up and trained within Barcelona, has not a transfer fee within Barcelona assets list, because there is not a past transaction tied to him.
+
+#### 2.5.1 Most Common Assets (from the readings)
+
+**Current Assets**:
+- Cash: the most liquid asset
+- Short-term investments (bonds, shares, etc.)
+- Account receivable: amounts owed by customers
+- Inventories: purchased products, held for sale. Manufacturing companies have three types
+  1. Raw materials
+  2. Work in progress inventory: products in production
+  3. Finished inventory: products for sale
+- Prepaid expenses: insurance, rent, etc.
+- Interest receivable: interest earned, not yet received
+- Taxes receivable: taxes not yet refunded
+- Non-current assets held for sale (they become current assets)
+
+**Non-Current Assets**:
+- Property, plant, equipment (inmobilizado material): land, buildings, machines, vehicles, etc. (tools that are not intended for sell, but for doing business). Noten that the same thing could be considered current/non-current for different companies. Often times the (accumulated) depreciation is added in the summary balance sheet below the property/equipment account.
+- Deferred tax assets: income taxes recoverable in the future, later than in a year
+- Intangible assets: patents, trademarks, copyrights; amortization is needed (amotization = depreciation for intangile assets).
+- Financial investments
+- Goodwill: value that arises whena  firm acquires another firm: growth opportunities, know-how, etc. No amortization is done, but impariment test can be done if the Goodwill has lost its value.
 
 ### 2.6. Liabilities
 
@@ -157,21 +198,63 @@ In accounting, a liability is defined by two elements:
 
 1. A liability is a present **obligation of the firm to transfer economic benefits in the future to another party**. Example: a loan.
 2. A liability is the **result of a past event or transaction**. The obligation to repay originates from this past transaction.
+3. The settlement which is expected will **cause an outflow of economic benefit**.
 
 Additionally, as with assets, we have two conditions to acknowledge a liability:
 
 - The **value transferred (outflow) needs to be estimated/measured reliably**.
 - Liabilities need to be **repaid with have high probability**. We have probable outflows of benefits.
 
+As with the assets, if we have a possible liability which does not fulfill any of the points, it is not considered a liability; however, it is disclosed if it has a considerable value.
+
 Examples:
 
 - A bank loan: it is a clear liability.
 - Law suit: a company is likely to lose a law suit, but we cannot estimate the penalty. Since there is no clear estimation, we do not add it to the liabilities, but we disclose it in the footnotes of the balance sheet!
 - A company sells cars with 3-year warranties. It is a liability, because the warranty contract fulfills the 4 points; we estimate the amount of warranty contracts which are exercised out of past experience/years. This kind of liabilities for which their amounts need to be predicted in that manner are called **provisions**.
+- Future salaries: they are not liabilities, because they are future obligations or commitments for work that has not been done yet.
 
-### 2.7 Readings
+#### 2.6.1 Most Common Liabilities (from the readings)
 
-#### 2.7.1 `Accounting_01_Introduction.pdf` (p. 1-15)
+**Current Liabilities:**
+- Accounts payable: amounts owed to suppliers, etc.
+- Salaries, Utilities payable, Interest payable; also known as accrued expenses
+- Advances from customers, Deferred/Unearned revenue: goods or services not yet delivered
+- Short-term, loans
+- Notes payable: like accounts payable, but formalized with contacts (and often with interest).
+- Provisions: liabilities for which value/cost and maturity are unknown, e.g., costs for warranty repairs
+- Current portion of long-term loans: the part of a loan that needs to be repaid regularly (not the interest), e.g., the monthly mortgage fee - interests.
+
+**Non-Current Liabilities:**
+- Long-term loans, mortgages
+- Pension obligations: payable when employees retire
+- Provisions for restructuring costs
+- Provisions for legal issues  litigation
+- Capital lease obligations: amounts owed because of renting stuff
+- Deferred tax liabilities: income tax payable in the future
+
+### 2.7 Owners' Equity (extra, after the readings)
+
+The Owners' Equity is the wealth of the owners of the firm. Two parts:
+- Capital contributed by them
+- Earnings generated by the operations and retained in the firm
+
+It is often derived from the accounting identity:
+
+`OE = A - L`
+
+#### 2.7.1 Most Common Owners' Equity
+
+- Share capital / Common stock: par or nominal value x number of shares; the nominal value is an arbitrary value that does not need to be the value paid by investors. If the company is not in the markets, the share capital is the money put by the investors, often the founders.
+- Share premium or Additional paid in capital: price in excess of the nominal values which reaches the total price paid for each share by market investors.
+- Preferred shares / stock: shares with additional voting rights
+- Retained earnings / profits: earnings of current and past periods not distributed to owners
+- Accummulated other comprehensive income / Reserves: gains or losses in addition to the retained earning, for instance when financial assets increase in value
+- Non-controlling interests: equity interests of minority shareholders in companies controlled by the firm
+
+### 2.8 Readings
+
+#### 2.8.1 `Accounting_01_Introduction.pdf` (p. 1-15)
 
 **Very important case study** in which the balance sheet is built with much more transactions as in the videos.
 
@@ -246,23 +329,30 @@ How a basic financial analysis is done:
   - How are `A`, `L` and `OE` distributed?
   - Do current assets pay the current liabilities?
     - If our cash is able to pay all current liabilities, that's perfect; but not necessary
+    - Same question is applied to non-current assets vs liabilities
 - Check the **income statement**
   - How was the net profit obtained?
   - `Profit margin = Net profit / Sales`: how big is it?
   - `Return on equity (ROE) = Net profit / OE`: how big is it? (4x for annualized return)
-  - 
 
-#### 2.7.2 `Accounting_02_BalanceSheet.pdf`
+#### 2.8.2 `Accounting_02_BalanceSheet.pdf`
 
+All new concepts are integrated in the notes above.
+The PDF provides three interesting real-life examples of balance sheets, each in one of the formats (Anglosaxon, European, UK):
+- Walmart Stores
+- Metro Group
+- J Salisbury plc
 
+Have a look at them!!
 
-### 2.8 Translation & Further Notes
+### 2.9 Translation & Further Notes
 
 I made this transactions into Spanish whilea skimming through the Spanish version of the Specialization, also available on Coursera.
 There are also readings in Spanish:
 
 #### `Contabilidad_01_Introduccion.pdf`
 
+- Cash = caja
 - Creditors = Acreedores: bancos, proveedores, etc.
 - Share capital (EU) = Capital stock (USA) = capital social: capital put by founders or shareholders
 - Balance sheet = balance de situación: financial state at a point in time
@@ -270,7 +360,7 @@ There are also readings in Spanish:
 - Liabilities = pasivo: funds we need to return
 - Owners'/Shareholders' equity = patrimonio neto
 - Equipment = inmobilizado material
-- Merchandise inventory = Existencias
+- (Merchandise) inventory = Existencias
 - Accounts payable = cuentas a pagar: when we get merchandise or similar on credit, i.e., we have not payed yet, but we need to pay it gradully in time
 - Gross profit = beneficio bruto
 - Profits/Earnings = renevues - expenses
@@ -280,6 +370,7 @@ There are also readings in Spanish:
 - Cost of goods sold (COGS) = Coste de mercancías vendidas (CMV)
 - Deposits from cutomers / unearned renevues = Anticipos de clientes / ingresos no devengados
 - Depreciation expense of equipment = amortización
+- Amortization = amortización de intangibles
 - Income tax = Impuesto de sociedades
 - Income statement = cuenta de resultados, cuenta de pérdidas y ganancias
   - Gross profit = beneficio bruto
@@ -287,9 +378,14 @@ There are also readings in Spanish:
   - Profit before tax = Beneficio antes de impuestos
   - Net profit = Beneficio neto
 - Current and non-current assets = Activos corrientes y no corrientes
-- Current and non-current liabilities = Pasibo corrientes y no corrientes
+- Current and non-current liabilities = Pasivo corrientes y no corrientes
 - Profit margin = margen neto
 - Return on equity = rentabilidad sobre recursos propios
+- Goodwill = fondo de comercio de sociedades consolidadas
+- Capital lease obligations = acreedores por arendamientos financieros
+- Share premium or Additional paid in capital = Prima de emisión
+- Non-controlling interests = Participaciones no dominantes
 
 #### `Contabilitdad_01_BalanceSituacion.pdf`
 
+All translated terms are above.
