@@ -190,7 +190,7 @@ Examples of assets:
 - Deferred tax assets: income taxes recoverable in the future, later than in a year
 - Intangible assets: patents, trademarks, copyrights; amortization is needed (amotization = depreciation for intangile assets).
 - Financial investments
-- Goodwill: value that arises whena  firm acquires another firm: growth opportunities, know-how, etc. No amortization is done, but impariment test can be done if the Goodwill has lost its value.
+- Goodwill: value that arises when a firm acquires another firm: growth opportunities, know-how, etc. No amortization is done, but impairment test can be done if the Goodwill has lost its value.
 
 ### 2.6. Liabilities
 
@@ -389,3 +389,36 @@ There are also readings in Spanish:
 #### `Contabilitdad_01_BalanceSituacion.pdf`
 
 All translated terms are above.
+
+## 3. The Income Statement
+
+### 3.1 Bookstore case
+
+
+
+1. Purchase of books on credit for €130,000.
+2. The Campus Bookstore sells books to individual customers who pay in cash. During
+x1, the total amount of cash sales is €120,000. The books sold in cash have a total
+purchase cost of €80,000.
+3. The Campus Bookstore sells books on credit to the school and other corporate
+customers. During x1, the total amount of credit sales is €60,000. The cost of the
+books sold on credit is €45,000.
+4. The Campus Bookstore pays €30,000 in cash for the selling, general and
+administrative costs incurred in x1. They include Cristina’s salary and utilities.
+5. In x1, the Campus Bookstore incurs in a rent expense of €6,000. This amount was
+already prepaid at the end of year x0.
+6. On December 31st of x1, the Campus Bookstore prepays €6,600 for the rent of year
+x2.
+7. The cash collected from credit sales is €38,000.
+8. The Campus Bookstore pays €10,000 to furniture and equipment suppliers, cancelling
+the pending obligation.
+9. The Campus Bookstore recognizes the depreciation of furniture and equipment in x1.
+The original purchase cost of furniture and equipment was €25,000. Cristina
+estimated a useful life of five years and no salvage value for this asset.
+10. The Campus Bookstore recognizes the amortization of the software in x1. The
+original purchase cost of the software was €3,000. Cristina estimated a useful life of
+three years and no salvage value for this intangible asset.
+11. At the end of x1, the Campus Bookstore recognizes and pays the interest cost on the
+bank loan. The bank charges an interest of 5% for the €20,000 loan, that is, €1,000.
+12. In x1, the Campus Bookstore makes a profit before taxes of €12,000 and recognizes
+corporate taxes of €3,600 (i.e. 30% x 12,000). This amount will be paid later in x2 when the tax forms are filed.
