@@ -392,17 +392,52 @@ All translated terms are above.
 
 ## 3. The Income Statement
 
-### 3.1 Bookstore case
+### 3.1 Bookstore Case
 
 1. Purchase of books on credit for €130,000.
+   - Accounts payable (L): +€130,000
+   - Inventory (A): +€130,000
 2. The Campus Bookstore sells books to individual customers who pay in cash. During x1, the total amount of cash sales is €120,000. The books sold in cash have a total purchase cost of €80,000.
+   - Profit & Loss (OE) (Revenues - Expenses): +€120,000 (revenue) -80,000€ (expense)
+   - Cash (A): +€120,000
+   - Inventory (A): -80,000€
 3. The Campus Bookstore sells books on credit to the school and other corporate customers. During x1, the total amount of credit sales is €60,000. The cost of the books sold on credit is €45,000.
+   - Profit & Loss (OE): +€60,000 (revenue) -€45,000 
+   - Accounts receivable (A): +€60,000
+   - Inventory (A): -€45,000
+   - **Important note**: **liquidity** and **profitability** are not the same! In this case, we have profitablity, but the profit is allocated in the account "Accounts Receivable", i.e., we don't have the money yet. Being liquid means we have cash we can use right away.
 4. The Campus Bookstore pays €30,000 in cash for the selling, general and administrative costs incurred in x1. They include Cristina’s salary and utilities.
+   - Profit & Loss (OE): -€30,000
+   - Cash (A): -€30,000
+   - Note that we don't use the "Salaries" account from Liabilities since the payment already took place; I understand that the "Salaries" refers more to payable salaries not paid yet...
 5. In x1, the Campus Bookstore incurs in a rent expense of €6,000. This amount was already prepaid at the end of year x0.
+   - The idea is we have an Asset account related to the prepaid rent; at the end of the year we need to decrease it; and we need to recognize we're poorer also
+   - Prepaid rent (A): -6,000€
+   - Profit & Loss (OE): -6,000€
 6. On December 31st of x1, the Campus Bookstore prepays €6,600 for the rent of year x2.
+   - Prepaid rent (A): +6,600€
+   - Cash (A): -6,600€
 7. The cash collected from credit sales is €38,000.
+   - Cash (A): +€38,000
+   - Accounts Receivable (A): -€38,000
+   - Here we see that we are more liquid (because cash increased) but not more profitable, because the profits did not change!
 8. The Campus Bookstore pays €10,000 to furniture and equipment suppliers, cancelling the pending obligation.
-9. The Campus Bookstore recognizes the depreciation of furniture and equipment in x1. The original purchase cost of furniture and equipment was €25,000. Cristina estimated a useful life of five years and no salvage value for this asset.
-10. The Campus Bookstore recognizes the amortization of the software in x1. The original purchase cost of the software was €3,000. Cristina estimated a useful life of three years and no salvage value for this intangible asset.
-11. At the end of x1, the Campus Bookstore recognizes and pays the interest cost on the bank loan. The bank charges an interest of 5% for the €20,000 loan, that is, €1,000.
-12. In x1, the Campus Bookstore makes a profit before taxes of €12,000 and recognizes corporate taxes of €3,600 (i.e. 30% x 12,000). This amount will be paid later in x2 when the tax forms are filed.
+   - Cash (A): -€10,000
+   - Accounts Payable, Others Payable (L): -€10,000
+9. The Bookstore pays to the suppliers of the books the pending receipt of €125,000
+   - Cash (A): -€125,000
+   - Accounts Payable (L): -€125,000
+10. The Campus Bookstore recognizes the depreciation of furniture and equipment in x1. The original purchase cost of furniture and equipment was €25,000. Cristina estimated a useful life of five years and no salvage value for this asset.
+    - Furniture (A): -€25,000/5 = -€5,000
+    - Profit & Loss (OE): -€5,000
+11. The Campus Bookstore recognizes the amortization of the software in x1. The original purchase cost of the software was €3,000. Cristina estimated a useful life of three years and no salvage value for this intangible asset.
+12. At the end of x1, the Campus Bookstore recognizes and pays the interest cost on the bank loan. The bank charges an interest of 5% for the €20,000 loan, that is, €1,000.
+13. In x1, the Campus Bookstore makes a profit before taxes of €12,000 and recognizes corporate taxes of €3,600 (i.e. 30% x 12,000). This amount will be paid later in x2 when the tax forms are filed.
+
+
+My general notes:
+- Liquidity and profitability are decoupled:
+  - Liquidity refers to Cash (A)
+  - Profitability refers to Profit & Loss (OE)
+  - We can sell goods on credit (Accounts Receivable): our profit increase, but not our cash, because we need to wait for the maturity of the delayed payment
+- The account **Profit & Loss** from OE is very important: every time we are unsure, we ask whether *the owners got richer/poorer* and if there is a clear answer, we change the **Profit & Loss** account. **Revenues** and **Expenses** that modify the effective wealth of the owners go here!
