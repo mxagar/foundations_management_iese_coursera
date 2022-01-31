@@ -20,8 +20,14 @@ Overview:
    - 2.8 Readings: Notes
      - `Accounting_01_Introduction.pdf` (p. 1-15)
      - `Accounting_02_BalanceSheet.pdf`
-   - 2.9 Translation & Further Notes
+   - 2.9 Balance Sheet: Summary of Accounts
+     - `Accounting_BalanceSheet_Accounts_Summary.pdf`
+   - 2.10 Bookstore Case: Further Transactions
+   - 2.11 Translation & Further Notes
+     - `Contabilidad_01_Introduccion.pdf`
+     - `Contabilitdad_02_BalanceSituacion.pdf`
 3. The Income Statement
+   - 3.1 Bookstore Case
 4. The Cash Flow Statement
 5. Accrual Accounting
 
@@ -306,7 +312,8 @@ Usually balance sheets are presented in two consecutive periods to analyze the d
 
 ![DSJ Company: Balance sheet after the first period](./pics/dsj_balance_sheets.png)
 
-The OE account **profit of the period** renamed to be the account of **retained profits**: this is a very important value, since it summarizes how well the company did in the period! Since it is very important, a new table/statement is created for it: **The Income Statement** or **Profit & Loss account (P & L)**. This table is basically the list of all transactions (or groups of transactions) in the account **profit of the period**. The order matters: revenues are decreased from most basic expenses to taxes until we get the net profit:
+At the end of the fiscal year/period , the amount in the OE account **profit & losses (of the period)** (P/L) is transferred to the OE account **retained profits**, which contains all retained profits during the company's history.
+P/L is a very important account, since it summarizes how well the company did in the period! Since it is very important, a new table/statement is created for it: **The Income Statement** or **Profit & Loss account (P & L)**. This table is basically the list of all transactions (or groups of transactions) in the account **profit of the period**. The order matters: revenues are decreased from most basic expenses to taxes until we get the net profit:
 
 1. **Sales revenue**: everything we have earned
 2. **Gross profit** = sales revenue - COGS expenses
@@ -345,7 +352,102 @@ The PDF provides three interesting real-life examples of balance sheets, each in
 
 Have a look at them!!
 
-### 2.9 Translation & Further Notes
+### 2.9 Balance Sheet: Summary of Accounts
+
+See the collocated PDF
+
+`Accounting_BalanceSheet_Accounts_Summary.pdf`
+
+A very nice summary of most common accounts in each of the `A`, `L` and `OE` groups is provided.
+
+### 2.10 Bookstore Case: Further Transactions in the Next (Second) Year
+
+1. Purchase of books on credit for €130,000.
+   - Accounts payable (L): +€130,000
+   - Inventory (A): +€130,000
+2. The Campus Bookstore sells books to individual customers who pay in cash. During x1, the total amount of cash sales is €120,000. The books sold in cash have a total purchase cost of €80,000.
+   - Profit & Loss (OE) (Revenues - Expenses): +€120,000 (revenue) -80,000€ (expense)
+   - Cash (A): +€120,000
+   - Inventory (A): -80,000€
+3. The Campus Bookstore sells books on credit to the school and other corporate customers. During x1, the total amount of credit sales is €60,000. The cost of the books sold on credit is €45,000.
+   - Profit & Loss (OE): +€60,000 (revenue) -€45,000 
+   - Accounts receivable (A): +€60,000
+   - Inventory (A): -€45,000
+   - **Important note**: **liquidity** and **profitability** are not the same! In this case, we have profitablity, but the profit is allocated in the account "Accounts Receivable", i.e., we don't have the money yet. Being liquid means we have cash we can use right away.
+4. The Campus Bookstore pays €30,000 in cash for the selling, general and administrative costs incurred in x1. They include Cristina’s salary and utilities.
+   - Profit & Loss (OE): -€30,000
+   - Cash (A): -€30,000
+   - Note that we don't use the "Salaries" account from Liabilities since the payment already took place; I understand that the "Salaries" refers more to payable salaries not paid yet...
+5. In x1, the Campus Bookstore incurs in a rent expense of €6,000. This amount was already prepaid at the end of year x0.
+   - The idea is we have an Asset account related to the prepaid rent; at the end of the year we need to decrease it; and we need to recognize we're poorer also
+   - Prepaid rent (A): -6,000€
+   - Profit & Loss (OE): -6,000€
+6. On December 31st of x1, the Campus Bookstore prepays €6,600 for the rent of year x2.
+   - Prepaid rent (A): +6,600€
+   - Cash (A): -6,600€
+7. The cash collected from credit sales is €38,000.
+   - Cash (A): +€38,000
+   - Accounts Receivable (A): -€38,000
+   - Here we see that we are more liquid (because cash increased) but not more profitable, because the profits did not change!
+8. The Campus Bookstore pays €10,000 to furniture and equipment suppliers, cancelling the pending obligation.
+   - Cash (A): -€10,000
+   - Accounts Payable, Others Payable (L): -€10,000
+9. The Bookstore pays to the suppliers of the books the pending receipt of €125,000
+   - Cash (A): -€125,000
+   - Accounts Payable (L): -€125,000
+10. The Campus Bookstore recognizes the depreciation of furniture and equipment in x1. The original purchase cost of furniture and equipment was €25,000. Cristina estimated a useful life of five years and no salvage value for this asset.
+    - Accumulated Depreciation (below Furniture asset) (A): -((€25,000 original -0 salvage )/5 years) years of life = -€5,000
+    - Profit & Loss (OE): -€5,000
+      - Depreciation: for tangible non-current assets (always applied to NCA)
+      - Amortization: for intangible non-current assets (always applied to NCA)
+11. The Campus Bookstore recognizes the amortization of the software in x1. The original purchase cost of the software was €3,000. Cristina estimated a useful life of three years and no salvage value for this intangible asset.
+    - Accumulated Amortization (A): - (3000 - 0) / 3 = -€1,000
+    - Profit & Loss (OE): -€1,000
+12.  At the end of x1, the Campus Bookstore recognizes and pays the interest cost on the bank loan. The bank charges an interest of 5% for the €20,000 loan, that is, €1,000.
+    - Cash (A): - 0.05 * 20,000 = - €1,000
+    - Profit & Loss: -€1,000 (interest expense)
+    - Note that this transaction refers only to the interest; we are not returning principal, only paying the interest
+13.  In x1, the Campus Bookstore makes a profit before taxes of €12,000 and recognizes corporate taxes of €3,600 (i.e. 30% x 12,000). This amount will be paid later in x2 when the tax forms are filed.
+     - Taxes Payable (L): €3,600
+     - Profit & Loss / Retained Profits (OE): -€3,600
+
+#### Closing the year in the Belance Sheet
+
+At the end of the year, we move the amount in the **Profit & Loss** (OE) account to the account **Retained Profits** (OE); if no such account exists, we open it.
+
+- Profit & Loss (P/L) contains the profits of accumulated during the year and it is set to 0 at the end, to start the new year
+- Retained Profits contains all profits accumulated during the existence of the company
+- Having two different accounts makes possible to better evaluate the company: this year and its history.
+
+![Balance Sheet: Status at End of Second Year](./pics/balance_sheet_second_year.png)
+
+Interpretation of the Balance Sheet at the year end (always in comparison to previous year, compute percentage changes):
+- We have enough cash + A/R (accounts receivable) to pay the current liabilities within a year.
+- The bank loan is a future obligation, not for the short-term.
+- Our non-current assets are decreasing due to depreciation/amortization, but we have still several years until the value is completely lost.
+- The OE has increased: we increased the retained profits; however, our cash has decreased. Thus, we are more profitable, but less liquid.
+
+#### My Notes
+
+- **Liquidity and profitability** are decoupled:
+  - Liquidity refers to Cash (A)
+  - Profitability refers to Profit & Loss (OE)
+  - We can sell goods on credit (Accounts Receivable): our profit increase, but not our cash, because we need to wait for the maturity of the delayed payment
+- The account **Profit & Loss** from OE is very important: every time we are unsure, we ask whether *the owners got richer/poorer* and if there is a clear answer, we change the **Profit & Loss** account. **Revenues** and **Expenses** that modify the effective wealth of the owners go here!
+  - Every time we have a **profit** or an **expense** which is not reflected in any other account to balance the counterpart entry, we need to add here the profit or expense line!
+- **Depreciation and Amortization** apply always to Non-Current Assets
+  - Depreciation is for tangible assets and Amortization for intangible ones
+  - We need to define three components for the computation
+    - Useful life of the asset, e.g. 5 years
+    - Salvage value (value after useful life), e.g., 0
+    - Method of depreciation, e.g. straight line (linear)
+  - Computation (linear method): (acquisition value - salvage value) / years of useful life
+  - And we modify two accounts
+    - Accumulated Depreciation: right below the asset acquisition value which is depreciated
+    - Profit & Loss: because we become poorer
+  - We call the **net book value** of an asset its acquisition value minus the accumulated depreciation/amortization
+
+### 2.11 Translation & Further Notes
 
 I made this transactions into Spanish whilea skimming through the Spanish version of the Specialization, also available on Coursera.
 There are also readings in Spanish:
@@ -394,50 +496,3 @@ All translated terms are above.
 
 ### 3.1 Bookstore Case
 
-1. Purchase of books on credit for €130,000.
-   - Accounts payable (L): +€130,000
-   - Inventory (A): +€130,000
-2. The Campus Bookstore sells books to individual customers who pay in cash. During x1, the total amount of cash sales is €120,000. The books sold in cash have a total purchase cost of €80,000.
-   - Profit & Loss (OE) (Revenues - Expenses): +€120,000 (revenue) -80,000€ (expense)
-   - Cash (A): +€120,000
-   - Inventory (A): -80,000€
-3. The Campus Bookstore sells books on credit to the school and other corporate customers. During x1, the total amount of credit sales is €60,000. The cost of the books sold on credit is €45,000.
-   - Profit & Loss (OE): +€60,000 (revenue) -€45,000 
-   - Accounts receivable (A): +€60,000
-   - Inventory (A): -€45,000
-   - **Important note**: **liquidity** and **profitability** are not the same! In this case, we have profitablity, but the profit is allocated in the account "Accounts Receivable", i.e., we don't have the money yet. Being liquid means we have cash we can use right away.
-4. The Campus Bookstore pays €30,000 in cash for the selling, general and administrative costs incurred in x1. They include Cristina’s salary and utilities.
-   - Profit & Loss (OE): -€30,000
-   - Cash (A): -€30,000
-   - Note that we don't use the "Salaries" account from Liabilities since the payment already took place; I understand that the "Salaries" refers more to payable salaries not paid yet...
-5. In x1, the Campus Bookstore incurs in a rent expense of €6,000. This amount was already prepaid at the end of year x0.
-   - The idea is we have an Asset account related to the prepaid rent; at the end of the year we need to decrease it; and we need to recognize we're poorer also
-   - Prepaid rent (A): -6,000€
-   - Profit & Loss (OE): -6,000€
-6. On December 31st of x1, the Campus Bookstore prepays €6,600 for the rent of year x2.
-   - Prepaid rent (A): +6,600€
-   - Cash (A): -6,600€
-7. The cash collected from credit sales is €38,000.
-   - Cash (A): +€38,000
-   - Accounts Receivable (A): -€38,000
-   - Here we see that we are more liquid (because cash increased) but not more profitable, because the profits did not change!
-8. The Campus Bookstore pays €10,000 to furniture and equipment suppliers, cancelling the pending obligation.
-   - Cash (A): -€10,000
-   - Accounts Payable, Others Payable (L): -€10,000
-9. The Bookstore pays to the suppliers of the books the pending receipt of €125,000
-   - Cash (A): -€125,000
-   - Accounts Payable (L): -€125,000
-10. The Campus Bookstore recognizes the depreciation of furniture and equipment in x1. The original purchase cost of furniture and equipment was €25,000. Cristina estimated a useful life of five years and no salvage value for this asset.
-    - Furniture (A): -€25,000/5 = -€5,000
-    - Profit & Loss (OE): -€5,000
-11. The Campus Bookstore recognizes the amortization of the software in x1. The original purchase cost of the software was €3,000. Cristina estimated a useful life of three years and no salvage value for this intangible asset.
-12. At the end of x1, the Campus Bookstore recognizes and pays the interest cost on the bank loan. The bank charges an interest of 5% for the €20,000 loan, that is, €1,000.
-13. In x1, the Campus Bookstore makes a profit before taxes of €12,000 and recognizes corporate taxes of €3,600 (i.e. 30% x 12,000). This amount will be paid later in x2 when the tax forms are filed.
-
-
-My general notes:
-- Liquidity and profitability are decoupled:
-  - Liquidity refers to Cash (A)
-  - Profitability refers to Profit & Loss (OE)
-  - We can sell goods on credit (Accounts Receivable): our profit increase, but not our cash, because we need to wait for the maturity of the delayed payment
-- The account **Profit & Loss** from OE is very important: every time we are unsure, we ask whether *the owners got richer/poorer* and if there is a clear answer, we change the **Profit & Loss** account. **Revenues** and **Expenses** that modify the effective wealth of the owners go here!
