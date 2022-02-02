@@ -18,7 +18,7 @@ Overview:
    - 2.7 Owners' Equity (OE) (extra, after the readings)
      - 2.7.1 Most Common Owners' Equity
    - 2.8 Readings: Notes
-     - `Accounting_01_Introduction.pdf` (p. 1-15)
+     - `Accounting_01_Introduction.pdf` (p. 1-11)
      - `Accounting_02_BalanceSheet.pdf`
    - 2.9 Balance Sheet: Summary of Accounts
      - `Accounting_BalanceSheet_Accounts_Summary.pdf`
@@ -27,7 +27,13 @@ Overview:
      - `Contabilidad_01_Introduccion.pdf`
      - `Contabilitdad_02_BalanceSituacion.pdf`
 3. The Income Statement
-   - 3.1 Bookstore Case
+   - 3.1 Example with the Bookstore Case
+   - 3.2 Readings: Notes
+     - `Accounting_01_Introduction.pdf` (p. 11-15)
+     - `Accounting_03_IncomeStatement.pdf`
+   - 3.3 Translation & Further Notes
+     - `Contabilidad_01_Introduccion.pdf`
+     - `Contabilitdad_03_CuentaResultados.pdf`
 4. The Cash Flow Statement
 5. Accrual Accounting
 
@@ -312,35 +318,6 @@ Usually balance sheets are presented in two consecutive periods to analyze the d
 
 ![DSJ Company: Balance sheet after the first period](./pics/dsj_balance_sheets.png)
 
-At the end of the fiscal year/period , the amount in the OE account **profit & losses (of the period)** (P/L) is transferred to the OE account **retained profits**, which contains all retained profits during the company's history.
-P/L is a very important account, since it summarizes how well the company did in the period! Since it is very important, a new table/statement is created for it: **The Income Statement** or **Profit & Loss account (P & L)**. This table is basically the list of all transactions (or groups of transactions) in the account **profit of the period**. The order matters: revenues are decreased from most basic expenses to taxes until we get the net profit:
-
-1. **Sales revenue**: everything we have earned
-2. **Gross profit** = sales revenue - COGS expenses
-3. **Operating profit** = Gross profit - operation expenses
-   - Operation expenses: salaries, depreciation, rent, etc.
-4. **Profit before income tax** = Operating profit - interest expenses
-5. **Net profit** = Profit before income tax - income tax
-   - Income tax (= impuesto de sociedades) is applied on the profits after all expenses except the taxes; it is different for each countries, and it varies depending on the size and activities of the company
-
-Note that the shareholders can obtain **dividends** from the **net profit**.
-Since the dividends are not an expense, they do not appear in the income statement; however, they are reflected in the balance sheet, because they are part of the financial image of the company: **Cash** (assets) and **Profit of the period / Retained profit** are decreased with the amount payed in dividends.
-
-That explains why **profit of the period** is renamed to **retained profits** in the income statement: the income statement accounts for the profits generated (revenues - expenses), independently of how they are distributed.
-
-![DSJ Company: Income statement after the first period](./pics/dsj_income_statement.png)
-
-How a basic financial analysis is done:
-- Check **balance sheet**
-  - How big is the net profit?
-  - How are `A`, `L` and `OE` distributed?
-  - Do current assets pay the current liabilities?
-    - If our cash is able to pay all current liabilities, that's perfect; but not necessary
-    - Same question is applied to non-current assets vs liabilities
-- Check the **income statement**
-  - How was the net profit obtained?
-  - `Profit margin = Net profit / Sales`: how big is it?
-  - `Return on equity (ROE) = Net profit / OE`: how big is it? (4x for annualized return)
 
 #### 2.8.2 `Accounting_02_BalanceSheet.pdf`
 
@@ -495,4 +472,93 @@ All translated terms are above.
 ## 3. The Income Statement
 
 ### 3.1 Bookstore Case
+
+### 3.1 Example with the Bookstore Case
+
+This section continues with the state of the balance sheet after the second year (see Section 2.10).
+
+![Balance Sheet: Status at End of Second Year](./pics/balance_sheet_second_year.png)
+
+The most important accounts for the shareholders are two: 
+- Cash: it's related to the liquidity the company has
+- Profit & Loss (or Retained Profits, when closing the year): it's related to the profitability of the company
+
+Recall that these two accounts are not necessarily coupled!
+
+Due to their importance, each of these accounts has its own financial statement:
+- The Cashflow statement (analyzed in later sections)
+- The Income Statement of the Statement of Profit and Loss
+
+The **income statement** gives an overview of how we are incrementing the OE with the operations of the company.
+To prepare the **income statement** all **revenues** and **expenses** during the year are listed and grouped in categories.
+
+![P & L account for the income statement](./pics/pl_income_statement.png)
+
+- Sum of all sales
+- Sum of the Costs of Sold Goods: COGS
+- Sum of all other expenses: Selling and General Admin expenses: SG&A (salaries, utilities, rent, etc.)
+- Sum of all depreciation and amortization expenses
+- Sum of all financial expenses (bank loan interests, etc.)
+- Sum of all taxes
+
+Then, we compute
+- Gross margin = Sales - COGS; we can compare it to other competitors
+- EBITDA = Gross margin - SG&A (Earnings before interest and taxes depreciation and amortization)
+- EBIT = Operating Profit = EBITDA - Depreciation & Amortization (Earnings before interest and taxes)
+- Profit before taxes = EBIT - financial/interest expenses
+- Net profit = Profit before taxes - Taxes
+
+![Bookstore: Income Statement](./pics/bookstore_income_statement.png)
+
+After computing the income statement, we compute some ratios in orther to evaluate the operations:
+
+- Return on sales = Net Profit / Sales: 8,400 / 180,000 = 4.7%
+- Return on Equity = Net Profit / OE: 8,400 / 50,000 = 16.8%
+  - The profit as the percentage of the investment
+  - An alternative is to use the average OE during the year in the denominator.
+
+We need to compare those ratios to previous years and other similar companies!
+
+
+### 3.2 Readings: Notes
+
+#### `Accounting_01_Introduction.pdf` (p. 11-15)
+
+At the end of the fiscal year/period , the amount in the OE account **profit & losses (of the period)** (P/L) is transferred to the OE account **retained profits**, which contains all retained profits during the company's history.
+P/L is a very important account, since it summarizes how well the company did in the period! Since it is very important, a new table/statement is created for it: **The Income Statement** or **Profit & Loss account (P & L)**. This table is basically the list of all transactions (or groups of transactions) in the account **profit of the period**. The order matters: revenues are decreased from most basic expenses to taxes until we get the net profit:
+
+1. **Sales revenue**: everything we have earned
+2. **Gross profit** = sales revenue - COGS expenses
+3. **Operating profit** = Gross profit - operation expenses
+   - Operation expenses: salaries, depreciation, rent, etc.
+4. **Profit before income tax** = Operating profit - interest expenses
+5. **Net profit** = Profit before income tax - income tax
+   - Income tax (= impuesto de sociedades) is applied on the profits after all expenses except the taxes; it is different for each countries, and it varies depending on the size and activities of the company
+
+Note that the shareholders can obtain **dividends** from the **net profit**.
+Since the dividends are not an expense, they do not appear in the income statement; however, they are reflected in the balance sheet, because they are part of the financial image of the company: **Cash** (assets) and **Profit of the period / Retained profit** are decreased with the amount payed in dividends.
+
+That explains why **profit of the period** is renamed to **retained profits** in the income statement: the income statement accounts for the profits generated (revenues - expenses), independently of how they are distributed.
+
+![DSJ Company: Income statement after the first period](./pics/dsj_income_statement.png)
+
+How a basic financial analysis is done:
+- Check **balance sheet**
+  - How big is the net profit?
+  - How are `A`, `L` and `OE` distributed?
+  - Do current assets pay the current liabilities?
+    - If our cash is able to pay all current liabilities, that's perfect; but not necessary
+    - Same question is applied to non-current assets vs liabilities
+- Check the **income statement**
+  - How was the net profit obtained?
+  - `Profit margin = Net profit / Sales`: how big is it?
+  - `Return on equity (ROE) = Net profit / OE`: how big is it? (4x for annualized return)
+
+
+#### `Accounting_03_IncomeStatement.pdf`
+### 3.3 Translation & Further Notes
+
+#### `Contabilidad_01_Introduccion.pdf`
+#### `Contabilitdad_03_CuentaResultados.pdf`
+
 
