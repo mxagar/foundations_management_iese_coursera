@@ -31,6 +31,11 @@ Overview:
    - 3.2 Readings: Notes
      - `Accounting_01_Introduction.pdf` (p. 11-15)
      - `Accounting_03_IncomeStatement.pdf`
+       - Classification of expenses
+       - Recognition of revenues and expenses
+       - Other Comprehensve Income (OCI)
+       - Earnings per Share (EPS)
+       - Examples of Income Statements
    - 3.3 Translation & Further Notes
      - `Contabilidad_01_Introduccion.pdf`
      - `Contabilitdad_03_CuentaResultados.pdf`
@@ -471,8 +476,6 @@ All translated terms are above.
 
 ## 3. The Income Statement
 
-### 3.1 Bookstore Case
-
 ### 3.1 Example with the Bookstore Case
 
 This section continues with the state of the balance sheet after the second year (see Section 2.10).
@@ -495,7 +498,7 @@ To prepare the **income statement** all **revenues** and **expenses** during the
 ![P & L account for the income statement](./pics/pl_income_statement.png)
 
 - Sum of all sales
-- Sum of the Costs of Sold Goods: COGS
+- Sum of the Costs of Goods Sold: COGS
 - Sum of all other expenses: Selling and General Admin expenses: SG&A (salaries, utilities, rent, etc.)
 - Sum of all depreciation and amortization expenses
 - Sum of all financial expenses (bank loan interests, etc.)
@@ -518,7 +521,6 @@ After computing the income statement, we compute some ratios in orther to evalua
   - An alternative is to use the average OE during the year in the denominator.
 
 We need to compare those ratios to previous years and other similar companies!
-
 
 ### 3.2 Readings: Notes
 
@@ -556,9 +558,84 @@ How a basic financial analysis is done:
 
 
 #### `Accounting_03_IncomeStatement.pdf`
+
+- The income statement relates to a period of time (often a year).
+- Note that **revenues are not cash inflows** and **expenses are not cash outflows**; therefore, the net frofit obtained in the income statement is not the change in cash in the period analyzed.
+  - The reason is that transactions such as sales on credit are considered assets, even though there is no cash involved.
+- Operation expenses are separated because operations could change more rapidly than the costs related to goods sold
+
+##### Classification of Expenses
+
+See tables below.
+
+Two ways of reporting expenses:
+
+1. By the Function related to the expenses
+   - Gross profit is computed
+   - Common in Anglo-Saxon countries; companies are switching to this format because the gross profit is computed
+   - Note that salaries, utilities, materials, etc. are note reported separately; instead, the proportions of them are alloccated to the different functions.
+
+2. By the Nature of the expenses
+   - Gross profit is not computed
+   - Here, for instance, we cannot tell how much material costs are due to production, research, administration, etc.
+   - The same applied to salaries
+   - More common in continental Europe
+
+
+![Income Statement: Expenses by Function](./pics/income_statement_expenses_function.png)
+
+![Income Statement: Expenses by Function](./pics/income_statement_expenses_nature.png)
+
+##### Recognition of Revenues and Expenses
+
+Not anything can appear as revenue or expense in the income statement.
+
+- Revenues are recognized if
+  - the company has delivered the goods/services promised
+  - the company has received cash or some other convertible to cash
+- Expenses are recognized if either of these happens:
+  - The consumption of an asset (expense) matches with a revenue obtained from that consumption (= matching principle)
+  - The consumption of an asset (expense) results from the passage of time (depreciation, interest)
+
+##### Other Comprehensive Income (OCI)
+
+The non-recognizes revenues and expenses that arise from changes in value of assets (not from transactions) are included in an OE account called **accumulated other comprehensive income**. Examples of items include: benefits from pensions, currency translations, derivatives, etc.
+
+That account might be appended explicitly to the net income at the end; in other cases, another separate statement is done, called **statement of comprehensive income**.
+
+##### Earnings per Share (EPS)
+
+At the end, the net profit is divided by the number of shares -- very important indicator.
+Note that:
+- A weighted average might be used to compute the number of shares, because the real number might vary in the period if more are issued
+- Two ways of reporting: basic and diluted; diluted refers to the effects due to the conversion to shares of some financial instruments, such as stock options.
+
+##### Examples of Income Statements
+
+- The Linde Group
+- Air Liquide
+- Air Products and Chemicals, Inc.
+
 ### 3.3 Translation & Further Notes
 
 #### `Contabilidad_01_Introduccion.pdf`
+
+All transalted terms are below.
 #### `Contabilitdad_03_CuentaResultados.pdf`
 
+- Income statement = cuenta de resultados
+- Revenue = ingreso
+- Expense = gasto
+- Profit = beneficio
+- Gross profit = beneficio bruto
+- EBIT = Earnings before interest and taxes = BAII = Beneficios antes de intereses e impuestos
+- Other Comprehensive Income = Resultado Integral
+- Statement of comprehensive income = Estado de resultado integral
+- Earnings per Share = Beneficio por Acción (BPA)
+- Matching principle = principio de correlación de ingresos y gastos
+
+### Excurs: Notes on the last part of `Accounting_01_Introduction.pdf`
+
+
+#### Transalation
 
