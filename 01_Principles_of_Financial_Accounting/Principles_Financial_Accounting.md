@@ -636,6 +636,86 @@ All transalted terms are below.
 
 ### Excurs: Notes on the last part of `Accounting_01_Introduction.pdf`
 
+**The Statement of Cash Flows**
+
+Profits and cash are decoupled because not all revenues are cash inflows (e.g. sales on credit) and not all expenses are cash outflows (e.g., acquisitions payable). That is the effect of the **the Accrual Basis of Accounting (= principio de devengo)**: the economic impact of events and transactions is recognized when they occur, not when cash is exchanged!
+
+However, the amount of cash, and thus, the evolution of it, is extremely important for the good operation of the comany; many firms fail because of shortages or bad managing of cash.
+
+Therefore, in addition to the income statement, we need another statement to show the evolution of the cash flows during the period: that is the **Cash Flows Statement** -- in it, the cash generation and consumption for the period is summarized.
+
+The Cash Flows statement can be done in to ways that provide the same result:
+
+1. Direct method: all entries of the Cash account (`A`) are listed in three groups
+2. Indirect method: done when there is no access to the Cash account
+
+The Cash Flows Statement with the direct method, three groups of entries in the Cash (`A`) account:
+
+1. Cash from financing activities (= actividades de financiación)
+   - Capital contributions by owners (+)
+   - Borrowings (+)
+   - Repayments of borrowings (-)
+   - Payment of dividends (+)
+2. Cash from investments activities (= actividades de inversión)
+   - Purchases of properties, equipement, etc. (-)
+   - Purchases of financial assets (-)
+3. Cash from operations activities (= actividades de explotación): Rest
+   - Collections from customers (+)
+   - Payments to suppliers and employees (salaries) (-)
+   - Payments of taxes (-)
+   - Payments of operating expenses (rent, insurance, utilities, etc.) (-)
+   - Interests (+/-)
+   - Collection of dividends (+)
+
+
+![The Statement of Cash Flows: DSJ Example](./pics/cash_flows_statement_dsj.png)
+
+**Accounting Records, T-Accounts and Journal Entries**
+
+Instead of keeping a large table with rows as accounts, usually each account has its own table which is shaped in two columns, with a T-shaped form. Columns are:
+
+- Debit = Debere = Dr. = "to owe" = "deber"; on the **left**
+- Credit = Credere =  Cr. = "to entrust" = "haber"; on the **right**
+
+Note:
+- "Deber" does not mean the company ows something!
+- "Haber" does not mean the company has something!
+- "Cargar": when entry in debit ("deber") done
+- "Abonar": when entry in credit ("haber") done
+
+Asset accounts:
+- Increases in the account are recorded on the left = Increase Debit: +
+- Decreses in the account on the right = Decrease Credit: -
+
+Liability and Owners' Equity accounts: the opposite:
+- Increases in the account are recorded on the right = Increase Credit: +
+- Decreses in the account on the left = Decrease Debit: -
+
+Note that
+- Debits increase asset accounts, but decrease liability and OE accounts
+- Credits decrease asset accounts, but increase liability and OE accounts
+
+Note also:
+
+![T-Accounting: Main Idea](./pics/t_accounts_main.png)
+
+Example: we get a loan of 10€, which increases or Cash account (Asset) begining balance (BB) of 12€ to have and ending balance (EB) of 22€; in parallel, the Loan account (Liability) is also modified:
+
+![T-Accounting: Simple example](./pics/t_accounts_simple_example.png)
+
+A very complete example is provided for the DSJ company:
+
+![T-Accounting: DSJ complete example](./pics/t_accounts_dsj_example.png)
+
+Accounting is done in practice using a journal: **journal entries** are done for ach transaction, consisting each entry with 2 or more changes in the debit/credit of 2 or more accounts. The software takes each entry and creates the T-accounts from those entries automatically. Thus: **accounting is simplified to doing correct journal entries, the rest is automatic**.
+
+![Journal entries](./pics/accounting_jorunal_entries.png)
 
 #### Transalation
 
+- Cash flow statement = estado de flujos de efectivo
+- Cash from financing activities = efectivo de actividades de financiación
+- Cash from operations activities = efectivo de actividades de explotación
+- The Accrual Basis of Accounting = principio de devengo
+- T-accounting = cuentas en T
+- Journal entries = asientos contables
