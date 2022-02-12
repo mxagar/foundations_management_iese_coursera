@@ -634,6 +634,48 @@ All transalted terms are below.
 - Earnings per Share = Beneficio por Acción (BPA)
 - Matching principle = principio de correlación de ingresos y gastos
 
+## 4. The Cash Flow Statement
+
+### 4.1 T-Accounts and Journal Entries
+
+T-Accounts are a simple way of recording and accumulating the transactions in an account in an orderly manner. They have two sides, one for the increases in the account, the other for the decreases in the account. Each account, no matter in which group (`A`, `L`, `OE`), has its own T-account.
+
+Always, no matter `A`, `L`, `OE`:
+- Left side is Debit = Dr. (Debere)
+- Right side is Credit = Cr. (Credere)
+
+**Do not try to look into meannings of Debit and Credit: it is just left and right!**
+
+Now, for assets `A`:
+- Increases are on the left, Debit
+- Decreases are on the right, Credit
+
+For liabilities `L` & owners' equity `OE`, it is the other way around:
+- Increases are on the right, Credit
+- Decreases are on the left, Debit
+
+![T-Accounts: main idea and how they work](./pics/t_accounts_idea.png)
+
+Then, the idea is that we register any transaction on the correct side of each account. At the end of the year we sum both sides, apply the rest between the column/side totals, and we have the ending balance of each account!
+
+However, instead of working on the T-accounts, the accountant uses **journal entries**: every transaction is registered in a journal, specifying: accounts involved and the ammounts increased/decreased on their Debit/Credit side. Basaically, the journal entry is done and the software updates the T-accounts!
+
+![Journal entries: example](./pics/journal_entry_example.png)
+
+The T-accounts are called the **ledger**. Now, we know all the elements of the accounting process:
+- Record: with journal entries
+- Classify: with T-Accounts, that consitute the ledger 
+- Summarize: with financial statements (Balance Sheet, Income Statement and Cash Flow Statement)
+
+![Accounting process: summary](./pics/accounting_process_summary.png)
+
+
+
+
+
+
+
+
 ### Excurs: Notes on the last part of `Accounting_01_Introduction.pdf`
 
 **The Statement of Cash Flows**
