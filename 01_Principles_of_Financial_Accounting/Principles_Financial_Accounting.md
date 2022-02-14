@@ -669,11 +669,122 @@ The T-accounts are called the **ledger**. Now, we know all the elements of the a
 
 ![Accounting process: summary](./pics/accounting_process_summary.png)
 
+### 4.2 Campus Bookstore Example: New Transactions Registered in T-Accounts & Balance Sheet
+
+The transactions for period x2 (also available in PDF form: `./Acccounting_Transactions-Week-3.pdf`) are listed below. Relevant comments are done below each transaction. After the list, an image is added with the transactions allocated to T-accounts.
+
+1. Purchase of books on credit for €150,000.
+2. The cash sales of books are €140,000. The cost of books sold in cash is €98,000.
+3. Sales on credit amount to €70,000. The cost of books sold on credit is €50,000.
+4. Collections from credit sales to customers are €64,000.
+5. Payments to suppliers of books are €155,000.
+6. Selling, general and administrative costs amount to €37,000, all paid in cash.
+7. The Campus Bookstore recognizes the rent expense of €6,600. This amount was prepaid at the end of x1.
+8. On December 31st x2, the Campus Bookstore pays €7,200 in advance for the full rent of year x3.
+
+   - Recall that prepaid rents are an asset: we pay for using a good over a period of time!
+
+9.  Cristina has estimated a depreciation expense of €5,000 for furniture and equipment in x2.
+
+    - Recall depreciation (tangigle assets) and amortization (intangible assets) is registered in separate accounts to the asset purcha value to better track the value evolution.
+    - Since amprtization and depreciaton are considered assets accounts that reduce asset value, they sit on the credit (right) side; that is why they are called *contra assets*.
+
+10. The estimated amortization of software is €1,000.
+11. On December 31st, the Campus Bookstore sells the furniture and equipment for a price of €1,800 in cash. The original cost of the furniture and equipment sold was €5,000 and the accumulated depreciation €2,000.
+
+    -  When a depreciating asset is sold, we need to consider:
+       -  Asset/equipment purchase price (asset account)
+       -  Its accumulated depreciation at sold time (depreciation account)
+       -  Selling price (cash account), which might be different to the purchase - depreciation value, incurring in possible gains or losses (P & L account)
+    -  It is common to sell equipment when we want to buy newer one!
+
+12. On December 31st, the Campus Bookstore purchases new furniture and equipment for €6,000 in cash.
+13. On December 31st, Cristina decides to invest in Apple shares for a total amount of €15,000.
+    
+    - Buying stocks opens a new current asset account: **Marketable securities**.
+    - It is important to account for the value change of these assets; more on that later in the course.
+
+14. The interest recognized and paid on the bank loan at the end of x2 is €1,000.
+15. In x3, the Campus Bookstore will have to repay the principal of the loan. So it reclassifies the €20,000 from the long-term bank loan account to another account in current liabilities.
+
+    - The bank loan was for 3 years, but 2 years have passed, thus, we need to re-classify it as a current lianility
+    - Re-classification occurs by closing the old account (Bank loan, debit total: 20k) and opening a new with the amount to be paid: Bank loan current, credit total: 20k.
+
+16. On December 31st x2, the Campus Bookstore receives a new long-term bank loan for €30,000
+
+    - It is common to ask for loans if we want to expand our business: we need financing!
+
+17. Taxes paid are €3,600.
+18. The tax expense recognized at the end of x2 is €3,060.
+
+    - Taxes or expenses we will have in the future are registered immediately in accounting
+    - Thus, we open (1) a tax/expense payable liability account crediting it and the P & L account is debited immediately also, because we anticipate we're going to be poorer.
+    - Later, when we pay the expense/taxes, the cash and expense/tax payable accounts are registered
+
+19. The Campus Bookstore makes the closing entry. The net profit for the year is €7,140
+
+    - Sum the **P & L account**: the total of period x2
+    - Debit the **P & L account** with the total P/L of x2 and credit the **Retained profits** account
+    - Now, **P & L account** has a **End Balance (EB)** of 0, and the gains are registered together with the accumulated wealth.
+
+20. Cristina and her uncle decide to pay themselves cash dividends of €10,000.
+
+    - Dividends are paid from the **Retained profits**, they're not related to the **P & L account**!
+    - Therefore, we credit the Cash account and debit the Retained profits account
+    - That means two things
+      - We need to have cash to pay them
+      - We might pay them even tough we have no profits for the year if we have enough accuulated profits in the past years
+    - Dividend payment is usually approved by teh shareholders.
+
+In the following, the transactions allocated to the T-accounts are shown. Each transaction has an identifiable number that matches with the transaction list above. Notes: 
+
+- The first line contains only one side with the **Beginning Balance (BB)**.
+- If there is no BB, a `-` is put.
+- Left (debit) and right (credit) columns do not need to be related!
+- The **Ending Balance (EB)** (of the period) is the sum and difference of both sides of the columns
+
+![Bookstore transactions for the period x2: T-accounts](./pics/bookstore_transactions_x2_t_accounts.png)
+
+In the following, the balance sheet of the company at the year end is provided. Recall:
+- Assets are ordered from most liquid to least
+- Liabilities are ordered from sonnest maturity to latest
+
+As a general interpretation, we see that:
+- Current assets (in particular, cash and marketable securities) can pay current liabilities.
+- `OE` and `NCL` can replace `NCA`.
+
+![Bookstore transactions for the period x2: Balance Sheet](./pics/bookstore_transactions_x2_balance_sheet.png)
 
 
+### 4.3 Campus Bookstore Example: Income Statement
 
+For the preparation of the Income Statement, all the transactions of the **P & L account** are listed in an analytical way.
 
+![Bookstore transactions for the period x2: Income Statement](./pics/bookstore_transactions_x2_income_statement.png)
 
+Two important indicator must be computed every time (and we need to track them over time), and both are related to the most important value in the income statement, i.e., **the net profit**:
+
+- Return on Sales = `Net Profit` / `Sales`: 3.4% (less than last year)
+- Return on Equity = `Net Profit` / `OE`: 12.2% (less than last year)
+
+### 4.4 Campus Bookstore Example: The Cash Flow Statement
+
+Profit if not the same as the change in cash, because cash in/outflows do not match with revenues/expenses. Example transactions that show that:
+
+- We can sell/buy on credit.
+- Depreciation does not involve any cash, but it is an expense.
+
+As the income statement focusses on the **Profit and loss account**, the **Cash Flow** focusses on the **Cash account**.
+
+In the **Cash Flow** statement, all cash in and outflows, i.e., all entries from tha Cash T-account, are classified in the three stages of a business cycle: **financing, investing, operations**. Note:
+
+- Cash inflows are on the left (debit) of the cash account, outflows on the right (credit).
+- We are interested in the change of cash, thus the begining balance is not considered.
+- Cash flow from operations:
+- Cash flow from investing:
+- Cash flow from financing:
+
+![Bookstore transactions for the period x2: Cash Flow Statement](./pics/bookstore_transactions_x2_cash_flow.png)
 
 
 ### Excurs: Notes on the last part of `Accounting_01_Introduction.pdf`
