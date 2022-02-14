@@ -792,14 +792,23 @@ Sometimes, it is not that clear where each entry goes, it is more convention-bas
 
 #### 4.4.1 Interpretation of the Cash Flow and the Income Statement: Profitability & Liquidity
 
+Regarding the picture above:
+
+- CFO is small not enough to finance investments; that is because we have on credit sales that have not produced cash inflow yet
+- The CFI is very negative; however, that is in part because of the non-necessary Apple stock investment, which could become an inflow very fast
+- The CFF is quite high; that is usual when starting a business or when expanding: we need inflow from financing
+- We have a small total increase in cash (1k), much smaller than the profit (7k)
+  - An explanation is that sales are higher than collections, due to on credit sales; we would need to check the accounts receivable from the balance sheet
+  - The payments to suppliers are higher than the cost of goods sold; are we buying too much inventory? are we paying too soon to the suppliers?
 
 
 ![Bookstore transactions for the period x2: Interpretation of the Cash Flow Statement and the Income Statement](./pics/bookstore_x2_interpretation_cf_is.png)
 
-
 #### 4.4.1 Direct and Indirect Methods for the Computation of the Cash Flow
 
+The used method is the **direct method**: we take the **cash account** and classify the in/outflows of entries.
 
+There is another method: **the indirect method**. CFI and CFF are computed the same way, but it CFO is computed differently: the net profit is reconciled with the operations. See the reading for more info.
 
 ### Excurs: Notes on the last part of `Accounting_01_Introduction.pdf`
 
