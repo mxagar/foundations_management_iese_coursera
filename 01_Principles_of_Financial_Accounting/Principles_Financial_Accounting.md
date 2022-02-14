@@ -774,17 +774,31 @@ Profit if not the same as the change in cash, because cash in/outflows do not ma
 - We can sell/buy on credit.
 - Depreciation does not involve any cash, but it is an expense.
 
-As the income statement focusses on the **Profit and loss account**, the **Cash Flow** focusses on the **Cash account**.
+As the income statement focusses on the **Profit and loss account**, the **Cash Flow** focusses on the **Cash account**. The Cash Flow account shows the **capability of the company to generate cash and repay its debt**.
 
 In the **Cash Flow** statement, all cash in and outflows, i.e., all entries from tha Cash T-account, are classified in the three stages of a business cycle: **financing, investing, operations**. Note:
 
 - Cash inflows are on the left (debit) of the cash account, outflows on the right (credit).
 - We are interested in the change of cash, thus the begining balance is not considered.
-- Cash flow from operations:
-- Cash flow from investing:
-- Cash flow from financing:
+- Cash flow from operations (CFO): all transactions related to the activities related to the revenue creation; as a rule off thumb: cash entries reflected in the P&L account; also interests.
+- Cash flow from investing (CFI): entries related to non-current assets, marketable securities, etc.
+- Cash flow from financing (CFF): loans, dividends, etc.
+
+Sometimes, it is not that clear where each entry goes, it is more convention-based. However, this formula always holds, obviously:
+
+`Change in Cash = CFO + CFI + CFF`
 
 ![Bookstore transactions for the period x2: Cash Flow Statement](./pics/bookstore_transactions_x2_cash_flow.png)
+
+#### 4.4.1 Interpretation of the Cash Flow and the Income Statement: Profitability & Liquidity
+
+
+
+![Bookstore transactions for the period x2: Interpretation of the Cash Flow Statement and the Income Statement](./pics/bookstore_x2_interpretation_cf_is.png)
+
+
+#### 4.4.1 Direct and Indirect Methods for the Computation of the Cash Flow
+
 
 
 ### Excurs: Notes on the last part of `Accounting_01_Introduction.pdf`
