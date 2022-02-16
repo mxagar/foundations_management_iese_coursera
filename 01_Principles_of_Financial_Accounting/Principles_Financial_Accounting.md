@@ -810,19 +810,21 @@ The used method is the **direct method**: we take the **cash account** and class
 
 There is another method: **the indirect method**. CFI and CFF are computed the same way, but it CFO is computed differently: the net profit is reconciled with the operations. See the reading for more info.
 
-### Excurs: Notes on the last part of `Accounting_01_Introduction.pdf`
+### 4.5 Readnigs: Notes
+
+#### 4.5.1 `Accounting_01_Introduction.pdf` (p. 14 - end)
 
 **The Statement of Cash Flows**
 
 Profits and cash are decoupled because not all revenues are cash inflows (e.g. sales on credit) and not all expenses are cash outflows (e.g., acquisitions payable). That is the effect of the **the Accrual Basis of Accounting (= principio de devengo)**: the economic impact of events and transactions is recognized when they occur, not when cash is exchanged!
 
-However, the amount of cash, and thus, the evolution of it, is extremely important for the good operation of the comany; many firms fail because of shortages or bad managing of cash.
+However, the amount of cash, and thus, the evolution of it, is extremely important for the good operation of the comany; many firms fail because of shortages or bad management of cash.
 
 Therefore, in addition to the income statement, we need another statement to show the evolution of the cash flows during the period: that is the **Cash Flows Statement** -- in it, the cash generation and consumption for the period is summarized.
 
 The Cash Flows statement can be done in to ways that provide the same result:
 
-1. Direct method: all entries of the Cash account (`A`) are listed in three groups
+1. Direct method: all entries of the Cash account (`A`) are listed in three groups or stages of the business cycle
 2. Indirect method: done when there is no access to the Cash account
 
 The Cash Flows Statement with the direct method, three groups of entries in the Cash (`A`) account:
@@ -831,7 +833,7 @@ The Cash Flows Statement with the direct method, three groups of entries in the 
    - Capital contributions by owners (+)
    - Borrowings (+)
    - Repayments of borrowings (-)
-   - Payment of dividends (+)
+   - Payment of dividends (-)
 2. Cash from investments activities (= actividades de inversión)
    - Purchases of properties, equipement, etc. (-)
    - Purchases of financial assets (-)
@@ -883,11 +885,25 @@ A very complete example is provided for the DSJ company:
 
 ![T-Accounting: DSJ complete example](./pics/t_accounts_dsj_example.png)
 
-Accounting is done in practice using a journal: **journal entries** are done for ach transaction, consisting each entry with 2 or more changes in the debit/credit of 2 or more accounts. The software takes each entry and creates the T-accounts from those entries automatically. Thus: **accounting is simplified to doing correct journal entries, the rest is automatic**.
+Accounting is done in practice using a journal: **journal entries** are done for each transaction, consisting each entry of 2 or more changes in the debit/credit of 2 or more accounts. The software takes each entry and creates the T-accounts from those entries automatically. Thus: **accounting is simplified to doing correct journal entries, the rest is automatic**.
 
 ![Journal entries](./pics/accounting_jorunal_entries.png)
 
-#### Transalation
+##### My Notes
+
+- CFO is related to the cash due to the real business
+- CFI is related to any investments we do to carry out our business: equipment & Co.
+- CFO is related to the loans & Co. we receive or need to repay
+
+Thus, a start-up, in ints first years is expected to have
+
+CFO < 0, CFI < 0, CFO > 0
+
+In this manner, we can interpret in which stage a company is (re-starting, consolidated, expanding, etc.), depending on their CF groups.
+
+
+
+##### Translation
 
 - Cash flow statement = estado de flujos de efectivo
 - Cash from financing activities = efectivo de actividades de financiación
@@ -895,3 +911,58 @@ Accounting is done in practice using a journal: **journal entries** are done for
 - The Accrual Basis of Accounting = principio de devengo
 - T-accounting = cuentas en T
 - Journal entries = asientos contables
+
+#### 4.5.2 `Accounting_04_CashFlowStatement.pdf`
+
+The cash account is essential for the good functioning of the company: if we run out of cash we cannot pay our immediate expenses and we cannot finance our operations; thus, we company would collapse. The Cash flow statement summarizes the management of the cash account.
+
+##### Cash Flow Statement with the Indirect Method
+
+If we have access to the cash account, the direct method is used, classifying each in/outflow of cash in one of the 3 stages of the business cycle: operations, financing, investing.
+
+However, when we don't have complete access to the cash account, the indirect method can be used for the **operations** stage. The idea is to *reconcile net income to cash from operations*; the cash flow of financing and investing is the same.
+
+Note that the indirect method seems quite confusing; however, it is the method required by the authorities, thus, often we get the *direct* method and a section with the *reconciliation of net income to the cash flow from operating activities*. That reconciliation or adjustement is due to the fact that the net income is the difference between revenues and expenses, being revenues and expenes not always cash transactions.
+
+The computation is derived from the accounting equality:
+
+`A = L + OE`
+
+`Cash + A* = L + OE`, with `A*` = assets other than cash
+
+`d(Cash) = -d(A*) + d(L) + d(OE)`: `d()` = difference from start to end or year-to-year.
+
+Thus, applying that to the operations stage, we have:
+
+**CFO** = Cash Flows due to Operations =  
+
+`+` Net income
+`+` Depreciation
+`+` Non-operating losses
+`-` Non-operating gains
+`-` Operating assets other than cash
+`+` Operating liabilities
+
+It is also possible to further differentiate the operating assets and liabilities as current and non-current, in such a way that we introduce the change or the **working capital** (CA - CL):
+
+...
+`-` Non-operating gains
+`-` Operating non-current assets other than cash
+`+` Operating non-current liabilities
+`-` d(WC = Operating current assets other than cash - Operating current liabilities)
+
+Using either method for the CFO computation (direct or indirect), we shouldd obtain the same result.
+
+In the reading, severa very thorough examples are provided.
+
+Finally, some companies report the **free cash flow**, which is the measure of the firm's ability to generate cash necessary to maintain operations:
+
+`Free cash flow = CFO - Capex`
+
+`Capex` are the capital expenditures: net cash investments in property, plant and equipment; in the example shown, it equals to the CFF.
+
+##### Translation
+
+- Working capital = capital circulante
+- Cash flow = flujos de efectivo
+- Free cash flow = caja libre
