@@ -40,6 +40,19 @@ Overview:
      - `Contabilidad_01_Introduccion.pdf`
      - `Contabilitdad_03_CuentaResultados.pdf`
 4. The Cash Flow Statement
+   - 4.1 T-Accounts and Journal Entries
+   - 4.2 Campus Bookstore Example: New Transactions Registered in T-Accounts & Balance Sheet
+   - 4.3 Campus Bookstore Example: Income Statement
+   - 4.4 Campus Bookstore Example: The Cash Flow Statement
+     - 4.4.1 Interpretation of the Cash Flow and the Income Statement: Profitability & Liquidity
+     - 4.4.2 Direct and Indirect Methods for the Computation of the Cash Flow
+   - 4.5 Readnigs: Notes
+     - 4.5.1 `Accounting_01_Introduction.pdf` (p. 14 - end)
+       - My Notes
+       - Translation
+     - 4.5.2 `Accounting_04_CashFlowStatement.pdf`
+       - Cash Flow Statement with the Indirect Method
+       - Translation
 5. Accrual Accounting
 
 ## 1. Introduction
@@ -804,7 +817,7 @@ Regarding the picture above:
 
 ![Bookstore transactions for the period x2: Interpretation of the Cash Flow Statement and the Income Statement](./pics/bookstore_x2_interpretation_cf_is.png)
 
-#### 4.4.1 Direct and Indirect Methods for the Computation of the Cash Flow
+#### 4.4.2 Direct and Indirect Methods for the Computation of the Cash Flow
 
 The used method is the **direct method**: we take the **cash account** and classify the in/outflows of entries.
 
@@ -966,3 +979,45 @@ Finally, some companies report the **free cash flow**, which is the measure of t
 - Working capital = capital circulante
 - Cash flow = flujos de efectivo
 - Free cash flow = caja libre
+
+## 5. Accrual Accounting
+
+### 5.1 Accrual Accounting vs. Cash Accounting
+
+Profitability and Liquidity are related, bu they are not the same; that is because we do accrual accounting. Recall:
+
+- Profit = Revenues - Expenses
+- Change in cash = Cash inflows - Cash outflows
+
+Not all revenues and expenses have their equivalent cash inflows and outflows, because for instance:
+
+- We might buy/sell on credit, so we have revenues/expenses, but cash transactions happen later in time
+- Depreciation/amortization are expenses that don't affect cash
+
+In other words, **accrual accounting** recognizes revenues and expenses when they occur, independently of any cash flows that might happen or not. Thus, for instance, a credit sale is recognized when the product is delivered, not when the associated cash is received!
+
+The counterpart method would be **cash accounting**, which is not used in practice: it recognizes only cash payments and receipts. That method would be able to provide only the cash flow statement, missing the balance sheet and the income statement. That would have the following shortcomings:
+
+- We'd have missing assets purchased on credit (e.g., inventories): even though we'd have not paid them, we'd own them!
+- Missing payment obligations (e.g., Accounts payable)
+- Missing sales and expenses on credit
+- Any economic event that does not affect the cash account is missing! Including: assets acquired in previous years (e.g., equipment)!
+- The profit would be only the cash profit, which is not true!
+
+### 5.1 Bookstore Case: Now Transactions
+
+1. Prepaid insurance
+
+   -  The Campus Bookstore prepays €1,200 on April 1st x3 for a full year of insurance.
+   -  By December 31st, the Campus Bookstore recognizes the consumption of €900 of insurance (i.e. use of 9 out of 12 months).
+
+2. Interest on bank loan
+
+   -  The Campus Bookstore received a €10,000 bank loan on July 1st x3 to be repaid at the end of three years.
+   -  The 5% interest cost of the loan has to be paid every Jun 30th.
+
+3. Advances from customers (i.e. unearned revenues)
+
+   - On March 31st, the Campus Bookstore receives an order of books for €10,000 from a corporate customer that pays €6,000 in advance.
+   - The order of books is delivered to the customer on May 31st.
+   - The remaining €4,000 owed by the customers are received on Jun 30th.
