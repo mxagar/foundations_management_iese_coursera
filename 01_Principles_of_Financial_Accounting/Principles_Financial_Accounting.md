@@ -1004,20 +1004,45 @@ The counterpart method would be **cash accounting**, which is not used in practi
 - Any economic event that does not affect the cash account is missing! Including: assets acquired in previous years (e.g., equipment)!
 - The profit would be only the cash profit, which is not true!
 
-### 5.1 Bookstore Case: Now Transactions
+### 5.2 Measuring Performance with Accrual Accounting
+
+Although proftability and liquidity are not the same, they are related. Such is the case, that if we stop activities and let time pass until all pending transactions close, profits and cash are the same. In other words, profits and cash are different due to the missmatch in time of cash transactions.
+
+If only the cash account is used to evaluate the performance of the company, we get a biased view of what is happening:
+
+- One year we might have less cash because we invest to have future revenues, and it seems to be bad, even though it is not! In fact, companies would not buy anything (not even equipment), because it would have a negative impact on the cash account -- so nothing would work.
+- Another year we might sell assets and we get more cash, but this might be bad, since we have no means to generate profits the coming year.
+
+Accrual accounting is a less biased way of evaluating the performance of a company; there are much less fluctuations and the real generated revenues are taken into account. That is a much better information for shareholders.
+
+One disadvantage of accrual accounting: we need to do estimations (e.g., for depreciation); that is subject to errors or manipulations. In other words, in contrast to cash accounting, accrual accounting yields estimations.
+
+### 5.3 Bookstore Case: Now Transactions
+
+Examples related to accrual accountinh.
 
 1. Prepaid insurance
 
    -  The Campus Bookstore prepays €1,200 on April 1st x3 for a full year of insurance.
-   -  By December 31st, the Campus Bookstore recognizes the consumption of €900 of insurance (i.e. use of 9 out of 12 months).
+   -  By December 31st, the Campus Bookstore recognizes the consumption of €900 of insurance (i.e. use of 9 out of 12 months). We have insurance for 3 months more, but we need to recognize the spent 9 months.
+
+![Bookstore example: accrual accounting - prepaid insurance](./pics/bookstore_transactions_x3_accrual_insurance.png)
 
 2. Interest on bank loan
 
    -  The Campus Bookstore received a €10,000 bank loan on July 1st x3 to be repaid at the end of three years.
    -  The 5% interest cost of the loan has to be paid every Jun 30th.
+   -  However, since we prepare the balance sheet for the year end, we need to recognize the interest of the passed 6 months: 5% of 10,000€ x 0.5 = 250€
+
+![Bookstore example: accrual accounting - loan interest before due date](./pics/bookstore_transactions_x3_accrual_interest.png)
 
 3. Advances from customers (i.e. unearned revenues)
 
-   - On March 31st, the Campus Bookstore receives an order of books for €10,000 from a corporate customer that pays €6,000 in advance.
+   - On March 31st, the Campus Bookstore receives an order of books for €10,000 from a corporate customer that pays €6,000 in advance. Note that orders are not recognized in accounting; however, it is often requested to keep an **order backlog** that shows the orders in the pipeline. As investors, we need to ask that. However, advances from customers are recognized in accounts under names similar to "advances from customers" or "unearned revenues".
    - The order of books is delivered to the customer on May 31st.
    - The remaining €4,000 owed by the customers are received on Jun 30th.
+
+![Bookstore example: accrual accounting - order: events](./pics/bookstore_transactions_x3_accrual_order_1.png)
+
+![Bookstore example: accrual accounting - order: entries in T-accounts](./pics/bookstore_transactions_x3_accrual_order_2.png)
+
