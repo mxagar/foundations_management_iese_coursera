@@ -979,6 +979,7 @@ Finally, some companies report the **free cash flow**, which is the measure of t
 - Working capital = capital circulante
 - Cash flow = flujos de efectivo
 - Free cash flow = caja libre
+- Reconciliation = conciliación
 
 ## 5. Accrual Accounting
 
