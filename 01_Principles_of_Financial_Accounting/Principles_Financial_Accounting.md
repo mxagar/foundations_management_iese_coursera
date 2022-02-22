@@ -178,6 +178,8 @@ However, there are some unknown points yet:
 - Inventory: right now, we have the purchase cost of the goods to be sold;  when are we going to sell the books? at which pace? at which price? will that be enough?
 - The company doesn't own buildings/lands, but they rent them. If they owned them, they would have needed much more sources of capital.
 
+**Important note: in Sections 5.4 and 5.5 there is a deeper interpretation guideline!**
+
 ### 2.5. Assets
 
 In accounting, an asset is defined by three elements:
@@ -421,6 +423,8 @@ Interpretation of the Balance Sheet at the year end (always in comparison to pre
 - The bank loan is a future obligation, not for the short-term.
 - Our non-current assets are decreasing due to depreciation/amortization, but we have still several years until the value is completely lost.
 - The OE has increased: we increased the retained profits; however, our cash has decreased. Thus, we are more profitable, but less liquid.
+
+**Important note: in Sections 5.4 and 5.5 there is a deeper interpretation guideline!**
 
 #### My Notes
 
@@ -769,6 +773,8 @@ As a general interpretation, we see that:
 ![Bookstore transactions for the period x2: Balance Sheet](./pics/bookstore_transactions_x2_balance_sheet.png)
 
 
+**Important note: in Sections 5.4 and 5.5 there is a deeper interpretation guideline!**
+
 ### 4.3 Campus Bookstore Example: Income Statement
 
 For the preparation of the Income Statement, all the transactions of the **P & L account** are listed in an analytical way.
@@ -814,8 +820,9 @@ Regarding the picture above:
   - An explanation is that sales are higher than collections, due to on credit sales; we would need to check the accounts receivable from the balance sheet
   - The payments to suppliers are higher than the cost of goods sold; are we buying too much inventory? are we paying too soon to the suppliers?
 
-
 ![Bookstore transactions for the period x2: Interpretation of the Cash Flow Statement and the Income Statement](./pics/bookstore_x2_interpretation_cf_is.png)
+
+**Important note: in Sections 5.4 and 5.5 there is a deeper interpretation guideline!**
 
 #### 4.4.2 Direct and Indirect Methods for the Computation of the Cash Flow
 
@@ -914,7 +921,7 @@ CFO < 0, CFI < 0, CFO > 0
 
 In this manner, we can interpret in which stage a company is (re-starting, consolidated, expanding, etc.), depending on their CF groups.
 
-
+**Important note: in Sections 5.4 and 5.5 there is a deeper interpretation guideline!**
 
 ##### Translation
 
@@ -1086,4 +1093,50 @@ We need to pose questions for all the accounts in the B/S:
 The bookstore income statement for periods x1 and x2:
 
 ![Income Statement in Two Periods: Performance evaluation](./pics/bookstore_x3_performance_income_statement.png)
+
+Look at these points and ask these questions (to the managers):
+- Sales and Net Profit: the most important ones; then, we continue downwards with the remaning items on the income statement
+  - Compute percentages of increase/decrease
+  - Sales have increased, but net profit has decreased
+  - Sales or Reevenues: why have they increased?
+    - Higher prices? Higher qunatities?
+    - New products? New customers?
+    - Differentiation? Low-cost?
+    - ...
+- Gross Margin: compute percetange Gross Margin / Sales: it has decreased slightly
+  - Higher purchase cost? No discounts?
+  - Different prodduct mix? Higher % of low margin products?
+  - Lower selling price?
+  - Lower productivity? (specially for manufacturing firms)
+  - ...
+- Operating Profit: compute percentage Operating Profit / Sales: it has decreased
+  - Do we have one-time or recurring expenses?
+  - Operating leverage: which are the fixed vs. variable costs?
+  - Was there inflation in the SG&A? On which items?
+  - ...
+- Profit Before Taxes: compute percentage Profit Before Taxes / Sales: it has decreased
+  - Do we have more debt (loans, etc. - check the B/S)
+  - Is the cost of the debt higher?
+  - ...
+- Net Profit: Net Profit / Sales: it has decreased
+  - Compute
+    - Return on Sales = Net Profit / Sales: it has decreased
+    - Return on Equity = Net Profit / OE: it has decreased
+
+#### 5.4.3 Cash Flow Statement
+
+The bookstore cash flow statement for periods x1 and x2:
+
+![Cash Flow Statement in Two Periods: Performance evaluation](./pics/bookstore_x3_performance_cash_flow.png)
+
+Look at these points and ask these questions (to the managers):
+- Change in Cash: CFO + CFI + CFF: it has increased
+  - CFO: it has increased considerably; operations are the real activities of the company: selling products
+    - Note that in x1 we were more profitable, but CFO was negative: that is because cash had not begun to completely inflow to company
+    - In x2 we are not as profitable, but CFO, i.e., cash from operations, or in other words, cash from customers is positive, because cash has started to pour in.
+    - The major reason why CFO is positivenow is that we have more sales, which turn into cash inflows
+  - CFI: negativein both years, more negative in x2
+    - This is normal in companies which are starting, due to investments in equipment, furniture, etc.
+    - Also, note that part of the negative amount is related to the acquisition of the Apple stock; that could be sold at any moment, therefore, we should not worry so much about its high negative amount.
+- The most important reading is to check that we have plenty of cash, which covers the most important part of the current liabilities.
 
