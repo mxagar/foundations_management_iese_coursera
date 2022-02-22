@@ -1047,3 +1047,43 @@ Examples related to accrual accountinh.
 
 ![Bookstore example: accrual accounting - order: entries in T-accounts](./pics/bookstore_transactions_x3_accrual_order_2.png)
 
+### 5.4 Performance Evolution of the Campus Bookstore
+
+Usually companies publish the financial statements of consecutive periods (years) to make interpretations easier. In fact, the balance sheet is a picture in time, a position, so it needs some comparative values to be interpreted correctly.
+
+In the following, the two consecutive periods x1 and x2 are compared.
+#### 5.4.1 Balance Sheet
+
+The bookstore blance sheet for periods x1 and x2:
+
+![Balance Sheet in Two Periods: Performance evaluation](./pics/bookstore_x3_performance_balance_sheet.png)
+
+We need to pose questions for all the accounts in the B/S:
+
+- Inventory: it has increased; do we need that much inventory? how long does it take to sell them? is there some seasonality in the business?
+  - Days of sales in inventory = Inventory / (COGS / 365 days)
+  - x1: 131 days
+  - x2: 116 days: we sell faster on average, it seems well managed
+- Seasonality: when seasonality is considerable, numbers fluctuate a lot and the picture might be different every time we take it. Consider important time points: Christmas, etc.
+- Accounts Receivable (A/R): the amount has increased; do we have problems collecting? do we have more corporate customers? is it because growth in sales?
+  - Days of sales in A/R = A/R / (Sales / 365 days)
+  - x1: 45 days
+  - x2: 49 days; that is the average time that takes the customers to pay us.
+- Cash has increased, that is good.
+  - In general, we can see there's a cash cycle: Cash -> Purchases of Inventory -> Inventories Sold -> A/R increase -> A/R become cash -> repeat
+  - However, there is a missmatch in time, so liquidity and profitability are not the same!
+- NCA: small value; typical for companies which rent, do not invest in properties.
+- Software amortization: only one year of software left; ask for plans to extend it.
+- Accounts Payable (A/P): it has decreased; can we delay the payments? is the level reasonable?
+  - Days of COGS in A/P = A/P / (COGS / 365 days)
+  - x1: 131 days
+  - x2: 99 days; we pay on average 99 days later
+- CA vs CL: we check tthat the Current Assets can pay all Current Liabilities; in fact, cash and the marketable securities (Apple stocks) alone cover the CL.
+- NCA, NCL, OE: do we have long-term resources (OE, that we don't need to return and long-term loans in NCL) to cover the long-term investments (NCA)? Yes, we do.
+
+#### 5.4.2 Income Statement
+
+The bookstore income statement for periods x1 and x2:
+
+![Income Statement in Two Periods: Performance evaluation](./pics/bookstore_x3_performance_income_statement.png)
+
