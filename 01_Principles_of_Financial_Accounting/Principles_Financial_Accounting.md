@@ -1140,3 +1140,18 @@ Look at these points and ask these questions (to the managers):
     - Also, note that part of the negative amount is related to the acquisition of the Apple stock; that could be sold at any moment, therefore, we should not worry so much about its high negative amount.
 - The most important reading is to check that we have plenty of cash, which covers the most important part of the current liabilities.
 
+## 5.5 Reading and Interpreting Real Financial Statements: Inditex Case
+
+### 5.5.1 Balance Sheet
+
+![Inditex: Balance Sheet](./pics/inditex_balance_sheet.png)
+
+
+
+### 5.5.2 Cash Flow
+
+
+
+### 5.5.3 Income Statement
+
+
