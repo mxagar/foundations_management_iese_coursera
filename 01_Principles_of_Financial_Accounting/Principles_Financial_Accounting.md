@@ -2,6 +2,8 @@
 
 These are my notes on the Coursera course [Accounting: Principles of Financial Accounting](https://www.coursera.org/learn/financial-accounting?specialization=foundations-management), taught by Prof. Marc Badia.
 
+This is the course 1/5 in the Coursera Specialization [Foundations of Management](https://www.coursera.org/specializations/foundations-management?).
+
 The course explains in 4 weeks the 3 most important finance reports (balance, income, cash-flow) and explains additionally accrual accounting.
 
 Overview:
@@ -67,6 +69,9 @@ Overview:
      - 5.5.3 Income Statement
 6. More Advanced Topics to Research on Our Own
 7. Final Assignment
+   - Submission
+   - Correct Answers / Peer-Reviewing
+8. Final Exam
 
 
 ## 1. Introduction
