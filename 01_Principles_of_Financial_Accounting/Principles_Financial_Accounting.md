@@ -54,6 +54,20 @@ Overview:
        - Cash Flow Statement with the Indirect Method
        - Translation
 5. Accrual Accounting
+   - 5.1 Accrual Accounting vs. Cash Accounting
+   - 5.2 Measuring Performance with Accrual Accounting
+   - 5.3 Bookstore Case: Now Transactions
+   - 5.4 Performance Evolution of the Campus Bookstore
+     - 5.4.1 Balance Sheet
+     - 5.4.2 Income Statement
+     - 5.4.3 Cash Flow Statement
+   - 5.5 Reading and Interpreting Real Financial Statements: Inditex Case
+     - 5.5.1 Balance Sheet
+     - 5.5.2 Cash Flow (CF) Statement
+     - 5.5.3 Income Statement
+6. More Advanced Topics to Research on Our Own
+7. Final Assignment
+
 
 ## 1. Introduction
 
@@ -997,7 +1011,7 @@ Profitability and Liquidity are related, bu they are not the same; that is becau
 - Profit = Revenues - Expenses
 - Change in cash = Cash inflows - Cash outflows
 
-Not all revenues and expenses have their equivalent cash inflows and outflows, because for instance:
+Not all revenues and expenses have their equivalent (instant) cash inflows and outflows, because, for instance:
 
 - We might buy/sell on credit, so we have revenues/expenses, but cash transactions happen later in time
 - Depreciation/amortization are expenses that don't affect cash
@@ -1014,7 +1028,7 @@ The counterpart method would be **cash accounting**, which is not used in practi
 
 ### 5.2 Measuring Performance with Accrual Accounting
 
-Although proftability and liquidity are not the same, they are related. Such is the case, that if we stop activities and let time pass until all pending transactions close, profits and cash are the same. In other words, profits and cash are different due to the missmatch in time of cash transactions.
+Although profitability and liquidity are not the same, they are related. Such is the case, that if we stop activities and let time pass until all pending transactions close, profits and cash are the same. In other words, profits and cash are different due to the missmatch in time of cash transactions.
 
 If only the cash account is used to evaluate the performance of the company, we get a biased view of what is happening:
 
@@ -1025,9 +1039,9 @@ Accrual accounting is a less biased way of evaluating the performance of a compa
 
 One disadvantage of accrual accounting: we need to do estimations (e.g., for depreciation); that is subject to errors or manipulations. In other words, in contrast to cash accounting, accrual accounting yields estimations.
 
-### 5.3 Bookstore Case: Now Transactions
+### 5.3 Bookstore Case: New Transactions
 
-Examples related to accrual accountinh.
+Examples related to accrual accounting.
 
 1. Prepaid insurance
 
@@ -1098,14 +1112,14 @@ Look at these points and ask these questions (to the managers):
 - Sales and Net Profit: the most important ones; then, we continue downwards with the remaning items on the income statement
   - Compute percentages of increase/decrease
   - Sales have increased, but net profit has decreased
-  - Sales or Reevenues: why have they increased?
+  - Sales or Revenues: why have they increased?
     - Higher prices? Higher qunatities?
     - New products? New customers?
     - Differentiation? Low-cost?
     - ...
 - Gross Margin: compute percetange Gross Margin / Sales: it has decreased slightly
   - Higher purchase cost? No discounts?
-  - Different prodduct mix? Higher % of low margin products?
+  - Different product mix? Higher % of low margin products?
   - Lower selling price?
   - Lower productivity? (specially for manufacturing firms)
   - ...
@@ -1134,24 +1148,142 @@ Look at these points and ask these questions (to the managers):
   - CFO: it has increased considerably; operations are the real activities of the company: selling products
     - Note that in x1 we were more profitable, but CFO was negative: that is because cash had not begun to completely inflow to company
     - In x2 we are not as profitable, but CFO, i.e., cash from operations, or in other words, cash from customers is positive, because cash has started to pour in.
-    - The major reason why CFO is positivenow is that we have more sales, which turn into cash inflows
-  - CFI: negativein both years, more negative in x2
+    - The major reason why CFO is positive now is that we have more sales, which turn into cash inflows
+  - CFI: negative in both years, more negative in x2
     - This is normal in companies which are starting, due to investments in equipment, furniture, etc.
     - Also, note that part of the negative amount is related to the acquisition of the Apple stock; that could be sold at any moment, therefore, we should not worry so much about its high negative amount.
 - The most important reading is to check that we have plenty of cash, which covers the most important part of the current liabilities.
 
 ## 5.5 Reading and Interpreting Real Financial Statements: Inditex Case
 
+Statements obtained from the website.
+Note that since Inditex (Zara & Co.) is dedicated to manufacturing and selling clothes, they have a seasonality effect around Christmas. Therefore, their year closing is defined on the 31st of January; on that date, we expect to have more cash and less inventories. Additionally, note that two consecutive period results are reported always, for better interpretation.
+
 ### 5.5.1 Balance Sheet
 
 ![Inditex: Balance Sheet](./pics/inditex_balance_sheet.png)
 
+![Inditex: Balance Sheet](./pics/inditex_balance_sheet_web.png)
 
+- Property, plant, equipment has increased: investing in new stores; the own them.
+  - But they also rent: leased assets.
+- Inventories: there is an increase; we should compute days to sell inventories
+  - Days to sell in 2013: Inventories 2013 / (COGS 2013 / 365) = 90 days
+  - Days to sell in 2014: Inventories 2014 / (COGS 2014/ 365) = 90 days
+  - Same number of days even though inventories increased, so it's OK
+  - We should always consider if the business is seasonal; in this case it is. Seasonality affects to cash and inventories!
+  - Inditex is known to be very good at managing inventories.
+- Cash: there is a large amount; normal, because the closure is after Christmas and providers are to be paid (Trade and other payables).
+  - Analyze cash evolution in the Cash Flow Statement
+- Equity is increased 
+  - The amount is: Previous + Profit - Dividends
+- Liabilities
+  - With so much generation of cash, the company doesn't need loans to operate
+  - However, Accounts payable (A/P) is considerable: we compute the days used to repay
+    - Days in 2013 = A/P 2013 / (COGS / 365) = 179 days
+    - Days in 2014 = A/P 2014 / (COGS / 365) = 170 days
+    - They pay very late to the suppliers; it's normal that they generate so much cash
+- Look at the asset Goodwill: it can/should refer to a brand
+  - However, to be an asset, that brand must have been acquired by Inditex.
+  - Since Zara was internally created, that entry must refer to another brand purchased by Inditex, for instance Massimo Dutti.
+### 5.5.2 Cash Flow (CF) Statement
 
-### 5.5.2 Cash Flow
+![Inditex: Cash Flow Statement](./pics/inditex_cash_flow_statement_web.png)
 
-
-
+- Inditex offers the CF from operations (CFO) using the indirect methods; we don't need to go into detail, we can jump to the CFO result.
+  - CFO is huge: it is bigger than the profit of the company!
+  - That happens when the company is growing sales; also the goods are bought on credit or suppliers paid later
+- What is done with that cash flow from operations? Look at themost important entries in CF Investing & CF Financial Activities (i.e., the entries with largest amounts)
+  - CF Investments (CFI): Properties are being bought in a large amount: the company is expanding
+  - CF Financial Activities (CFF): Dividend payments to shareholders are quite notable
 ### 5.5.3 Income Statement
 
+![Inditex: Cash Flow Statement](./pics/inditex_income_statement_web.png)
 
+- Compute percentages of the Net sales of each entry/line
+- Always look and monitor the **Gross Profit**: compare it to previous years and competitors
+  - Gross Profit (GP) = Net Sales - Cost of Sales (all manufacturing costs)
+  - 2013: GP / Sales = 59.3%
+  - 2014: GP / Sales = 58.3%
+  - There is 1% drop: why is that? it seems to be low, but it is to consider. Ask the managers:
+    - Lower selling prices?
+    - Inflation by manufacturing costs?
+    - Lower productivity?
+    - Different product mix?
+- Operating expenses: marketing, non-manufacturing salaries (design, sales, etc.), headquarters, etc.
+- Financial expenses: low and positive; normal, since they don't have many financial debt because of the large amount of cash generation
+- Net income
+  - Return on Sales 2014 = Net Income 2014 / Net Sales 2014 = 13.9%
+  - Return on Equity 2014 = Net Income 2014 / Equity 2014 = 27%: very high
+
+## 6. More Advanced Topics to Research on Our Own
+
+- Cost of goods sold: since we buy inventories along the time, their price changes, so it is not that straightforward to measure the cost of the goods sold; some techniques
+  - FIFO
+  - LIFO
+  - Weighted average cost
+- Manufacturing companies have production costs associated to the sod goods - which costs are included in the costs of goods sold?
+- Inventories loose value along time: how do we account for that? Inventory valuation
+- Credit sales: what happens if a customer doesn't pay? These are bad debts, and we know that there is going to be a percentage that occurs regularly. Banks have so called bad loans: loans that are not paid back.
+- Sales returns: how do we account for that?
+  - Because customers are not satisfied
+  - Warranty
+- Financial assets: if we buy stocks and the price fluctuates, how do we account for it?
+- Loss of value of assets (e.g., computer breaks): these are impairments of non-current assets
+- Long-term debt: bonds. Companies take their long-term debt, fraction it and sell it to the market; these are called bonds. How do we account for it?
+- Leases, capital or operating: how do we account for them?
+- Owner's Equity: many more transactions can happen beyond P/L and dividends, such as capital issues, repurchase of shares, etc.
+- Corporate taxes: taxable profits are not as straightforward as we have seen; they often must need to be adjusted.
+
+## 7. Final Assignment
+
+There is a companion PDF with the financial statements of Fibertech (same as in the final quiz). We need to answer the following 2 questions, providing at least 4 items for each, supported with facts/calculations. Each item is worth 1 point. 75% must be covered.
+
+I meade all the computations on the companion PDF:
+
+`./Week-4-Assignment-Material.pdf`
+
+Example of comment: Profitability: *Fibertech is very profitable. The net profit is XYZ. The return on sales is X% (i.e. Net profit / Sales = XYZ/ ABC). The return on equity is XX% (i.e. Net profit / Average owner's equity for the year = XYZ / [(XXX + YYY)/2] = XX%).*
+
+### Submission
+
+> Project Title
+
+Financial Analysis of Fibertech GmbH for the period x4
+
+> Q1. Briefly discuss Fibertech’s financial statements. Please comment on its financial position, profitability, liquidity and whatever relevant information you can interpret from the financial statements. (5 items are possible in the solution, at least 4 must be discussed)
+
+(Note: for the sake of clarity, money amounts are written in multipes of €1,000)
+
+Fibertech is very profitable. The net profit for the period x4 is 336. The return on sales is 15.2% (i.e. Net profit / Sales = 336 / 2,100). The return on equity is 75.8% (i.e. 336 / Average owner's equity for the year = 443 [(290 + 596)/2]).
+
+The liquidity (cash balance) of the company has decreased 29.7% (i.e., 1 - 239/340), compared with period x3. Cash is able to cover only 53.7% of current liabilities (i.e., 239/445), however all the current assets are able to cover a wide 246.1% (i.e., 1,095/445) of all current liabilities. Thus, even though the cash situation should be improved, the current liabilities seem to be safely covered.
+
+Inventories have increased 40% (i.e., 350/250 - 1) compared to the previous period x3. The days of sales in inventory is in x4 91.3 days (i.e., 350 / (COGS/365 = 1,400/365)); that means the company could sell all the inventory in approximately 3 months (using the average annual rate). That amount of time seems to be correct.
+
+Accounts Receivable (A/R) is 209.2% of the Cash (i.e., 500/239), 45.7% of all the current assets (i.e., 500/1,095) and it has increased 25% (i.e., 500/400 - 1) since previous period x3. All those percentages seem to be considerable. The days of sales is 83 days (i.e., A/R / (Sales / 365) = 500 / (2,200/365)); that is, customers pay on average approximately 3 months later. That latency can be probably improved.
+
+Accounts Payable (A/P) has increased 25% compared to the previous period x3 (i.e., 250/200 - 1). The days of COGS in A/P is 65.2 days (i.e., 250 / (COGS/365 = 1,400/365)); that means the company pays on average roughly in 2 months. Therefore, the company pays on average one month before their customers pay them. That is a disadvantage, specially when there is not a considerable large amount of cash which could cover any delays or unexpected events.
+
+Non-current liabilities (i.e., 450) and Shareholder's equity (i.e., 596) cover the investment necessary for the non-current assets (i.e., 396) 1.76 times (i.e., (450+596)/396), which seems to be a positive situation. Since the buildings and equipment are very depreciated, the company could consider to invest some of the retained profits in such non-current assets.
+
+The income statement is very positive: the Gross Margin is 36.4% (i.e., 800/2,200) of the total sales, the EBIT (Operating Margin) 22.8% (i.e., 501/2,200), and the Net Profit 15.3% (i.e., 336/2,200). All those seem to be very performant indicators.
+
+The Cash Flow Statement is negative in total; the company has decreased its cash balance, as mentioned before. The reason is that the positive balance in the Cash Flow from Operations (i.e., CFO = 194) does not cover the negative balances of the Cash Flow from Investing (i.e., CFI= -115) and the Cash Flow from Financing (i.e., CFF = -180). By decreasing the A/P, i.e., by converting into cash the amount that the customers owe to the company, a better cash situation could be achieved.
+
+> Q2. If you were a shareholder in Fibertech sitting in the Board of Directors, based on the information you read in the financial statements, what further relevant questions would you ask to get a more complete picture of the business performance? (7 items are possible in the solution, at least 4 must be discussed)
+
+- Liquidity: The cash of the company has decreased (29.7%) but the A/R has increased (25%); additionally, the A/R consist in a 43.7% of all the current assets. Are there issues in charging customers or do some customers fail to pay? Which are the plans of the company to get the owed money from the customers sooner?
+
+- The company pays on average one month before their customers pay them. That is a disadvantage, specially when there is not a considerable large amount of cash which could cover any delays or unexpected events. How is that issue being handled?
+
+- The building and the equipment have suffered a large depreciation, being the present net value only 18.3% (i.e., 106/580). Which are the plans to renew future those non-current assets in the near? Which impacts will that have on the balance sheet?
+
+- Retained profits increased a considerable percentage of 355% (i.e., 426/120). Which are the plans with it? Is part of this amoount going to be invested in new buildings and equipment?
+
+- Are there seasonality effects in the market or in the markets associated to the suppliers which could explain why the A/R is so large, causing such a missmatch between profotability and liquidity?
+
+- CFI is expected to increase (i.e., become more negative) if new buildings/equipment acquired. Which impact will that have in the cash flow statement?
+
+
+### Correct Answers / Peer-Reviewing
