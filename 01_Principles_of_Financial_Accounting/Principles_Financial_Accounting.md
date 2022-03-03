@@ -1287,3 +1287,31 @@ The Cash Flow Statement is negative in total; the company has decreased its cash
 
 
 ### Correct Answers / Peer-Reviewing
+
+See:
+
+`./Week-4-Assignment-Solution.pdf`
+
+## 8. Final Exam
+
+The following file with 2 consecutive balance sheets + Cash account entries are provided:
+
+`./Final_Exam_Accounting_Material.xlsx`
+
+Questions:
+
+1. Revenue from credit sales (assume all sales were on credit). Tip: you can get this number from the Accounts Receivable T account.
+2. Cost of merchandise purchased (all merchandise is purchased on account). 
+3. Cost of goods sold
+4. Depreciation expense
+5. Rent expense
+6. Salaries expense
+7. Utilities and other operating expense
+8. Tax expense
+9. Net profit
+
+(10. Prepare the Cash Flow Statement for Swimfish for the year x20 using the direct method.)
+
+See solutions:
+
+`./Final_Exam_Accounting_Solutions.xlsx`
