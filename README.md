@@ -11,4 +11,4 @@ The Specialization is composed of five courses, divided in each of the subfolder
 5. [Analysis of Business Problems](https://www.coursera.org/learn/analysis-business-problem-iese?specialization=foundations-management)
 
 Mikel Sagardia, 2022.  
-No warranties.
+No guarantees.
