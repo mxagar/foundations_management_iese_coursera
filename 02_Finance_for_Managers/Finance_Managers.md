@@ -5,7 +5,9 @@ These are my notes on the Coursera course [Finance for Managers](https://www.cou
 This is the course 2/5 in the Coursera Specialization [Foundations of Management](https://www.coursera.org/specializations/foundations-management?).
 
 Overview:
-1. Introduction
-2. B
+
+:construction:
 
 ## 1. Introduction
+
+:construction:
