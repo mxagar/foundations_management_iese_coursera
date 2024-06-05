@@ -1,3 +1,3 @@
 # Organizational Behavior: How to Manage People
 
-:constructions:
+:construction:

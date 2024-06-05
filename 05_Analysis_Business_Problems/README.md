@@ -1,3 +1,3 @@
 # Analysis of Business Problems
 
-:constructions:
+:construction:
