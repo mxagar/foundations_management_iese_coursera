@@ -10,5 +10,10 @@ The Specialization is composed of five courses, divided in each of the subfolder
 4. [Organizational Behavior: How to Manage People](https://www.coursera.org/learn/managing-people-iese?specialization=foundations-management)
 5. [Analysis of Business Problems](https://www.coursera.org/learn/analysis-business-problem-iese?specialization=foundations-management)
 
+In addition, I have also followed related courses. The notes are located in another repository: [finance_accounting_courses](https://github.com/mxagar/finance_accounting_courses)
+
+- **Financial Markets, by Prof. Robet Shiller**: [Coursera / Yale Link](https://www.coursera.org/learn/financial-markets-global).
+- **Python for Financial Analysis, by José Portilla**: [Udemy Link](https://www.udemy.com/course/python-for-finance-and-trading-algorithms).
+
 Mikel Sagardia, 2022.  
 No guarantees.
